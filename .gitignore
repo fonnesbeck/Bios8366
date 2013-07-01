@@ -29,3 +29,4 @@ nosetests.xml
 # Project-specific
 resources
 roster*
+admin
