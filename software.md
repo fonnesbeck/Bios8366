@@ -26,13 +26,15 @@ Users on Linux can quickly install the necessary packages from repositories.
 
 ### Ubuntu & Debian
 
-    sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
+    sudo apt-get install python-numpy python-scipy python-matplotlib \
+    ipython ipython-notebook python-pandas python-sympy python-nose
 
 The versions in Ubuntu 12.10 and Debian 7.0 meet the current Scipy stack specification. Users might also want to add the [NeuroDebian](http://neuro.debian.net/) repository for extra Scipy packages.
 
 ### Fedora
 
-    sudo yum install numpy scipy python-matplotlib ipython python-pandas sympy python-nose
+    sudo yum install numpy scipy python-matplotlib ipython python-pandas \
+    sympy python-nose
 
 Users of Fedora 17 and earlier should then upgrade IPython using pip:
 
