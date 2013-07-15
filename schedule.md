@@ -1,3 +1,10 @@
+---
+
+layout: default
+title: Advanced Statistical Computing
+
+---
+
 * **Aug 22:**: Intro/Python
 * **Aug 27:**: Python/IPython
 * **Aug 29:**: NumPy

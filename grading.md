@@ -1,3 +1,10 @@
+---
+
+layout: default
+title: Advanced Statistical Computing
+
+---
+
 # Grading and Assignments
 
 Students will be assessed on 4 assignments (50% of grade) and a final project (50% of grade)
