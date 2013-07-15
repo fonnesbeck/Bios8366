@@ -24,3 +24,11 @@ TBA
 **Lectures**: Tue/Thu 10:30am-12:30pm in [RLH 415A](http://goo.gl/maps/4c3W) (except 10/15: MCE 8380A)
 
 **Office hours**: By appointment
+
+# Textbook and reading materials
+
+Recommended text:
+
+![Computational Statistics](http://www.stat.colostate.edu/computationalstatistics/cover.Ed2.gif)
+
+[Computational Statistics](http://www.stat.colostate.edu/computationalstatistics/) by Geof H. Givens and Jennifer A. Hoeting

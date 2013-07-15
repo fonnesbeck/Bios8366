@@ -3,7 +3,7 @@ Slate Theme for Github Pages
 by Jason Costello, @jsncostello
 *******************************************************************************/
 
-@import url(pygment_trac.css);
+@import url(slate_pygment_trac.css);
 
 /*******************************************************************************
 MeyerWeb Reset
@@ -47,6 +47,9 @@ table {
   border-spacing: 0;
 }
 
+a:focus {
+  outline: none;
+}
 
 /*******************************************************************************
 Theme Styles
