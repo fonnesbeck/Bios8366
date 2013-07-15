@@ -5,6 +5,14 @@ title: Advanced Statistical Computing
 
 ---
 
+# Tentative Schedule
+
+**Lectures**: Tuesdays and Thursdays from 10:30am to 12:30pm in [RLH 415A](http://goo.gl/maps/4c3W) (except 10/15: MCE 8380A)
+
+**Office hours**: By appointment
+
+The following is intended only as a plan. Dates and content may change at any time.
+
 * **Aug 22:**: Intro/Python
 * **Aug 27:**: Python/IPython
 * **Aug 29:**: NumPy
