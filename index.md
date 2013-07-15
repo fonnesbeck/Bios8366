@@ -1,6 +1,6 @@
 ---
 
-layout: minimal
+layout: default
 title: Advanced Statistical Computing
 
 ---
