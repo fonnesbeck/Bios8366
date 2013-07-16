@@ -9,9 +9,23 @@ title: Advanced Statistical Computing
 
 Bios 366 is taught using Python and the "Scientific Stack", a set of core scientific computing packages written and maintained by various third parties.
 
+## Python
+
 The first step is to install Python on your computer. I will be teaching this course based on **Python 2.7.2**. If you are running Mac OS X, Python is already included in the operating system that is shipped with the computer. I recommend that you upgrade to OS X 10.8 (Mountain Lion) if possible, so that you are running a relatively recent version of Python.
 
 If you are running Windows or Linux, you may not already have Python installed (though it is installed by default on many Linux distributions). If Python is not on your system, you can either download an installer from [Python.org](http://python.org) or install a third-party distribution (see below). I recommend the latter, since these distributions are enhanced, containing most or all of the packages required for the course.
+
+In addition to Python itself, we will be making use of several packages in the scientific stack. These include the following:
+
+* [NumPy](http://www.numpy.org/ "NumPy &mdash; Numpy")
+* [SciPy](http://www.scipy.org/ "SciPy.org &mdash; SciPy.org")
+* [IPython](http://ipython.org/ "Announcements &mdash; IPython")
+* [Pandas](http://pandas.pydata.org/ "Python Data Analysis Library &mdash; pandas: Python Data Analysis Library")
+* [Matplotlib](http://matplotlib.org/ "matplotlib: python plotting &mdash; Matplotlib 1.2.1 documentation")
+* [PyMC](https://github.com/pymc-devs/pymc "pymc-devs/pymc · GitHub")
+* [scikit-learn](http://scikit-learn.org/ "scikit-learn: machine learning in Python &mdash; scikit-learn 0.13.1 documentation")
+
+If your Python distribution does not include these packages, you can install them using either `pip` or `easy_install`.
 
 ## All-in-one Scientific Python
 
