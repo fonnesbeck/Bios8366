@@ -9,6 +9,12 @@ title: Advanced Statistical Computing
 
 Bios 366 is taught using Python and the "Scientific Stack", a set of core scientific computing packages written and maintained by various third parties.
 
+The first step is to install Python on your computer. I will be teaching this course based on **Python 2.7.2**. If you are running Mac OS X, Python is already included in the operating system that is shipped with the computer. I recommend that you upgrade to OS X 10.8 (Mountain Lion) if possible, so that you are running a relatively recent version of Python.
+
+If you are running Windows or Linux, you may not already have Python installed (though it is installed by default on many Linux distributions). If Python is not on your system, you can either download an installer from [Python.org](http://python.org) or install a third-party distribution (see below). I recommend the latter, since these distributions are enhanced, containing most or all of the packages required for the course.
+
+## All-in-one Scientific Python
+
 There are a handful of enhanced Python distributions that include easy installers and all of the packages required for this course.
 
 * [Anaconda](http://continuum.io/downloads.html) by Continuum Analytics. Completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing
@@ -39,3 +45,29 @@ The versions in Ubuntu 12.10 and Debian 7.0 meet the current Scipy stack specifi
 Users of Fedora 17 and earlier should then upgrade IPython using pip:
 
     sudo pip install --upgrade ipython
+
+## Git
+
+The use of version control systems is essential for effective scientific computing. In Bios 366, we [make extensive use of Git](http://fonnesbeck.github.io/Bios366/git.html), which is one of several widely-used versioning systems.
+
+To install Git, you can either download an installer from [the Git website](http://git-scm.com), or if you are on a UNIX-based computer, install it via your system's package manager (recommended). On Mac OS X, you can easily install a variety of software packages using [Homebrew](http://mxcl.github.io/homebrew/ "Homebrew — MacPorts driving you to drink? Try Homebrew!"). To obtain Git, simply type:
+
+    brew install git
+
+On Linux, you can issue a similar command with `apt-get` or `yum`, depending on which Linux distribution you are using.
+
+In addition to installing Git locally, we will be using [GitHub](https://github.com/ "GitHub · Build software better, together.") to remotely store and share our code and documents. If you do not already have a GitHub account of your own, you can [request an educational account](https://github.com/edu) that will allow you to create private repositories that you can use for your course work.
+
+
+## Document Preparation Tools
+
+For preparing assignments and final projects, students may select from a variety of document preparation tools. Each of these facilitate scientific reporting by being able to embed code and typeset mathematical equations.
+
+* [IPython Notebook](http://ipython.org/notebook.html "The IPython Notebook &mdash; IPython")
+* [LaTeX](http://www.latex-project.org)
+    * [pweave](http://mpastell.com/pweave/ "About Pweave &mdash; Pweave - reports from data with Python")
+    * [Pandoc](http://johnmacfarlane.net/pandoc/ "Pandoc - About pandoc")
+* [Multimarkdown](http://fletcherpenney.net/multimarkdown/ "MultiMarkdown")
+* [reStructuredText](http://docutils.sourceforge.net/rst.html "reStructuredText")
+
+The use of traditional word processing software, such as Microsoft Word or OpenOffice is not permitted in Bios 366.
