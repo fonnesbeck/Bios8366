@@ -43,4 +43,4 @@ The following is intended only as a plan. Dates and content may change at any ti
 * **Dec 5**:    High-performance Computing
 
 
-†**Note that on 10/15 class will be held in MCE 8380A**
+†*Note that on 10/15 class will be held in MCE 8380A*
