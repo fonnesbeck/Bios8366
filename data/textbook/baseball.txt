@@ -1,0 +1,44 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: baseball.dat
+Chapter: 3, 8
+Discussed in: Examples 3.3, 3.5, 3.6, 3.7, 8.4; Problems 3-3.4
+
+Source: Baseball data from M.R. Watnik (1998), "Pay for Play: Are
+Baseball Salaries Based on Performance", Journal of Statistics
+Education, Volume 6, number 2
+(http://www.amstat.org/publications/jse/v6n2/datasets.watnik.html)
+
+Description: Salaries in 1992 and 27 performance statistics for 337 baseball
+players (no pitchers) in 1991.
+
+Variable labels: See Table 3.1 for more details.
+salary ($1000s) 
+average = batting average
+obp = on base percentage
+runs = runs scored
+hits 
+doubles 
+triples 
+homeruns 
+rbis = runs batted in
+walks 
+sos = strike outs
+sbs = stolen bases
+errors 
+freeagent (or eligible for free agency)
+arbitration (or eligible for arbitration)
+runsperso = runs/sos
+hitsperso = hits/sos
+hrsperso = homeruns/sos
+rbisperso = rbis/sos
+walksperso = walks/sos
+obppererror = obp/errors
+runspererror = runs/errors
+hitspererror = hits/errors
+hrspererror = homeruns/errors
+soserrors = sos*errors
+sbsobp = sbs*obp
+sbsruns = sbs*runs
+sbshits = sbs*hits

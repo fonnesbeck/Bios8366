@@ -1,0 +1,12 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: hivrisk.dat
+Chapter: 4
+Discussed in: Problem 4.2
+
+Description: Results from a survey of 1500 homosexual men.  Each
+subject reported how many risky sexual encounters he had in the
+previous 30 days.  The data are tabled frequency counts.
+
+Variable labels: encounters, frequency

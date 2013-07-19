@@ -1,0 +1,20 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: mars.dat
+Chapter: 11
+Discussed in: Problem 11.4
+
+Source: G. L. Tyler et al. (2004).  Mars Global Surveyor Radio Science
+    Data Products.  R.A. Simpson (Ed.).  NASA Planetary Data System.
+    Available from http://www-star.stanford.edu/projects/mgs/public.html
+
+Description: Temperature profile of the Martian atmosphere, as
+measured by the Mars Global Surveyor spacefcraft in 2003 using a radio
+occultation technique. Data include the altitude (measured as
+from the center of the planet) and atmospheric temperature (K).
+
+Variable labels: radius = plantocentric radius (km)
+                 temperature (K)
+                 sigmatemperature = 1 standard deviation of the temperature
+

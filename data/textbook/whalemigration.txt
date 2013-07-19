@@ -1,0 +1,15 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: whalemigration.dat
+Chapter: 10
+Discussed in: Examples 10.2, 10.3, 10.4, 10.6
+
+Source: Geof Givens, Colorado State University
+
+Description: Sighting times for 121 bowhead whale calves passing Point
+Barrow, Alaska, during the 2001 spring migration.  Times are expressed
+as hours since midnight, April 5, when the first adult whale was
+spotted during the visual census effort.
+
+Variable labels:

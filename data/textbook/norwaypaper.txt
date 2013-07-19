@@ -1,0 +1,17 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: norwaypaper.dat
+Chapter: 12
+Discussed in: Examples 12.1, 12.2
+
+Source: Excerpts of Table 5 on page 530 in M. Aldrin, "Moderate
+projection pursuit regression for multivariate response data,"
+Computational Statistics and Data Analysis, 1996, 21: 501-531.
+
+Description: A response (negy5) and two predictors (x1 and x3) related
+to the manufacture of paper at a Norwegian plant.  The response is a
+measure of imperfections, and the definitions of predictors are not known.
+
+Variable labels: negy5, x1, x3
+

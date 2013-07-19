@@ -1,0 +1,15 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: drugabuse.dat
+Chapter: 12
+Discussed in: Example 12.2
+
+Source: D. W. Hosmer and S. Lemeshow (2000), "Applied Logistic
+Regression", Wiley.
+
+Description: The response is whether a patient remained drug free for
+one year (yes=1, no=0).  The predictors are the patient age and the
+number of prior drug abuse treatments.  Data are given for 575 patients.
+
+Variable labels: drugfree, numtreatments, age

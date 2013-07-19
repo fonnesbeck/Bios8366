@@ -1,0 +1,12 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: coin.dat
+Chapter: 4
+Discussed in: Problem 4.5
+
+Description: Sequence of 200 coin flip outcomes from the experiment
+described in Problem 4.5 regarding the Baum-Welch algorithm.  Outcomes
+are heads=1, tails=0.  
+
+Variable labels: outcome

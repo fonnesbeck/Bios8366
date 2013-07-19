@@ -1,0 +1,27 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: serviceberry.dat
+Chapter: 8
+Discussed in: Example 8.6,  8.7, and 8.9
+
+Source: Derived from data obtained from E. L. Little, Jr. (1976),
+  "Atlas of United States Trees, Minor Western Hardwoods", US
+  Department of Agriculture, vol 3, Miscellaneous Publication 1314
+
+Description: The data indicate presence (1) and absence (0) of the
+  Utah serviceberry in a region of western Colorado (west of
+  approximately 104 degrees W longitude).  We binned the GIS 
+  presence/absence information into pixels that are approximately 8 km
+  by 8 km.  This grid consists of a lattice of 46 by 54 pixels giving
+  a total of 2,484 pixels.  If you read in these data into R and
+  name the variable "y", the R commands:
+
+  par(pty="s")
+  image(1:54,46:1,matrix(y,54,46))
+
+  should produce a picture similar to the left panel in Figure 8.5.
+
+Variable labels: none
+
+

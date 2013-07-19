@@ -1,0 +1,18 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting
+
+Name: geneticmapping2.dat
+Chapter: 3
+Discussed in: Problem 3.7
+
+Description: 400 chromosomes (rows) consisting of 30 loci (columns).
+The source parent for the allele at each locus is denoted with a zero
+or one.  (These data are simulated, and the permutation of the observed
+loci that corresponds to the ordering used to generate the data is
+18,23,1,30,14,11,10,12,19,21,7,4,8,6,5,25,15,3,17,27,24,22,13,16,
+20,28,2,26,29,9.  In other words, loci 18 and 9 are located
+at opposite ends of the chromosome.)
+
+Variable labels: loc1, loc2, loc3, loc4, loc5, loc6, loc7, loc8, loc9,
+loc10, loc11, loc12, loc13, loc14, loc15, loc16, loc17, loc18, loc19,
+loc20, loc21, loc22, loc23, loc24, loc25, loc26, loc27, loc28, loc29, loc30

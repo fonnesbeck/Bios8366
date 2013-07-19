@@ -1,0 +1,16 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: censoreddata.dat
+Chapter: 4
+Discussed in: Example 4.7
+
+Description: Terminology for this example is introduced in Example
+4.5.  Let Yi ~ Exp(lambda) i.i.d. for i=1,...,30.  Let ci denote
+constants for i=1,...,30.  The observed data are
+Xi=(min(Yi,ci),deltai) where deltai=1 if Yi<=ci and deltai=0 if
+Yi>ci.  Thus deltai=0 corresponds to right censoring.  Since these
+data were simulated, we include Yi, ci, and Xi, although Xi alone
+constitutes the observed data.
+
+Variable labels: Yi, ci, obsvi (=min(Yi,ci)), deltai

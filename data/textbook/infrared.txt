@@ -1,0 +1,30 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: infrared.dat
+Chapter: 10
+Discussed in: Problems 10.1, 10.2
+
+Source: excerpt from Table 1 in D. B. Sanders, J. M. Mazzarella,
+        D. C. Kim, J. A. Sura, d B. T. Soif (2003), The IRAS revised
+        bright galaxy sample, The Astronomical Journal, 126:1607-1664.
+
+Description: Infrared emissions and other characteristics of objects
+beyond our galaxy.  We have included some additional data not
+mentioned in the book, just for fun.
+
+Variable labels:
+RAh = hour of right ascension
+RAm = minute of right ascension
+RAs = second of right ascension
+DEd = degree of declination
+DEm = arcminute of declination
+DEs = arcsecond of declination
+GLON = galactic longitude
+GLAT = galactic latitude
+F12 = total 12 micron band flux density
+F25 = total 25 micron band flux density
+F60 = total 60 micron band flux density
+F100 = total 100 micron band flux density
+CZ = heliocentric radial velocity
+D = estimated source distance

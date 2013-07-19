@@ -1,0 +1,15 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: mixture.dat
+Chapter: 7
+Discussed in: Examples 7.2,7.3,7.8, Problem 7.2
+
+Source:  Simulated data.
+
+Description: Simulated from mixture of normals, distribution given in
+equation (7.6).
+
+Variable labels: y
+
+

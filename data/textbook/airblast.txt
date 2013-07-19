@@ -1,0 +1,15 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: airblast.dat
+Chapter: 11
+Discussed in: Problems 11.6, 11.7
+
+Source: R. F. Danesi, National University of Tucuman, Argentina
+
+Description: Pressure differences between two sensors on a steel plate
+exposed to a powerful air blast.  There are 161 measurements over a
+period of time just before and after the blast.  The noise in these
+data is primarily due to inadequate temporal resolution.
+
+Variable labels: time, pressure

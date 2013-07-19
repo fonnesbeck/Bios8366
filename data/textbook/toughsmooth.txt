@@ -1,0 +1,12 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: toughsmooth.dat
+Chapter: 11
+Discussed in: Example 11.8
+
+Description: Two hundred predictor-response data points used in
+Example 11.8.  These data exhibit a strong pattern, but also severely
+non-constant variance.  A variable-span smoother is necessary.
+
+Variable labels: X, Y

@@ -1,0 +1,18 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: whalecatch.dat
+Chapter: 8
+Discussed in: Example 8.1
+
+Source:  Simulated data.
+
+Description: Number of whales harvested (caught) for 101 years for a hypothetical population of whales.
+
+Variable labels: 
+year = years for which catch data were collected
+C = number of whales harvested 
+
+
+
+

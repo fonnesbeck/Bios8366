@@ -1,0 +1,11 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: bimodal.dat
+Chapter: 10
+Discussed in: Examples 10.1, 10.5
+
+Description: 100 points drawn from a univariate bimodal mixture
+distribution. 
+
+Variable labels:

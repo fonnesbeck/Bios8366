@@ -1,0 +1,17 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: fursealpups.dat
+Chapter: 7
+Discussed in: Examples 7.2,7.3,7.8, Exercise 7.2 
+
+Source: Richard Barker, University of Otago, New Zealand
+
+Description: Data from a capture-recapture study conducted on the
+Otago Penninsula, South Island, New Zealand.  Fur seal pups were
+marked and released during 7 census attempts in one season.  The
+population is assumed closed.  For each census attempt, the number of
+pups captured and the number of these captures corresponding to pups
+never previously caught are recorded.
+
+Variable labels: censusattempt, captures, newlycaught

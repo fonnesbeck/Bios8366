@@ -1,0 +1,15 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: coal.dat
+Chapter: 6,7
+Discussed in: Problems 6.4, 7.6
+
+Source:  Table 1, page 395 of B. P. Carlin, A. E. Gelfand and
+A. F. M. Smith (1992) .Hierarchical Bayesian Analysis of Changepoint
+Problems,. Applied Statistics, 41:2, 389-405
+
+Description: Time series of the numbers of disasters at coal mines
+annually between 1851 and 1962.   
+
+Variable labels: year, disasters

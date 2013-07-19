@@ -1,0 +1,11 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: image1d.dat
+Chapter: 8
+Discussed in: Problem 8.4
+
+Description: Synthetic 1-dimensional binary 'image' data described in
+Problem 8.4.   Thirty-five pixels are given in sequence.
+
+Variable labels:

@@ -1,0 +1,12 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: ximage.dat
+Chapter: 8
+Discussed in: Problem 8.5
+
+Description: Synthetic data for a 20x20 pixel grey-scale image, as
+described in Problem 8.5 and Figure 8.12.  The value for the (i,j)th
+pixel is given in the (i,j)th entry in ximage.dat.
+
+Variable labels:

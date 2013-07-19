@@ -1,0 +1,15 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: breastcancer.dat
+Chapter: 7
+Discussed in: Problem 7.5
+
+Description: Times to recurrence for breast cancer patients receiving
+a hormone treatment.  Women who did not have a recurrence before the
+end of the clinical trial have right censored data (censored=1)
+because their time to recurrence is known to exceed the given value
+(recurtime).  Treatment=1 corresponds to the hormone treatment group
+and treatment=0 corresponds to the control group.
+
+Variable labels: recurtime, treatment, censored

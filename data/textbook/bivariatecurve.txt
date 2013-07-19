@@ -1,0 +1,12 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: bivariatecurve.dat
+Chapter: 11, 12
+Discussed in: Figure 11.18, Example 12.7, Problem 12.8
+
+Description: Two hundred general bivariate data points (one per row).
+There is no designation of predictor or response, but there is a clear
+relationship between these two variables.
+
+Variable labels: x1, x2

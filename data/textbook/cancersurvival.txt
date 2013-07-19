@@ -1,0 +1,18 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: cancersurvival.dat
+Chapter: 9
+Discussed in: Problem 9.5
+
+Source: Excerpts from Table 1 in E. Cameron and L. Pauling,
+"Supplemental ascorbate in the supportive treatment of cancer:
+Re-evaluation of prolongation of survival times in terminal human
+cancer", Proceedings of the National Academy of Science, 1978, 75,
+4538-4542.
+
+Description: Survival times (days) for patients with terminal stomach
+(disease=1) and breast (disease=2) cancer.  Both groups were treated
+with ascorbate.
+
+Variable labels: survivaltime, disease

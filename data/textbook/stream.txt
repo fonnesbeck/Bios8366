@@ -1,0 +1,55 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: 
+Chapter: 1
+Discussed in: Examples 12.4-12.6 and Problem 12.5
+
+Source: U.S. Environmental Protection Agency through its Environmental
+Monitoring and Assessment Program (EMAP), http://www.epa.gov/emap.  
+Special thanks to Alan Herlihy (Oregon State University and EPA) who
+compiled the data from Jennifer Hoeting (Colorado State University).
+
+Description: These data are a subset of those collected by the
+  Environmental Protection Agency as part of a study of 353 sites in
+  the Mid-Atlantic Highlands region of the eastern United States from
+  1993 to 1998.  In this case, the goal is to predict the response, an
+  index of biotic integrity, from a set of predictors.  Some of the
+  predictors were collected at the site (the site habitat and
+  chemistry measures listed in problem 12.5) and other variables are
+  watershed-based measured.  The geographic and watershed measures
+  were estimated using GIS.  For more information on these and other
+  MAHA data, see the following websites.  For an overview of MAHA
+  project, see http://www.epa.gov/maia/html/maha.html.  For details on
+  these and other MAHA data, see
+  http://www.epa.gov/emap/html/dataI/surfwatr/data/
+
+
+Variable labels: 
+ 
+ STREAM.ID	EPA's identification number
+ IBI.BUG	Index of biotic integrity 
+ YEAR		year the data were collected
+ LAT.DD		latitude
+ LON.DD		longitude
+ PHSTVL		pH
+ ANC		Acid neutralizing capacity
+ log.COND	specific conductance
+ log.CL		chloride
+ log.SO4	sulfate
+ log.PTL	total phosphorus
+ log.NTL	total nitrogen
+ xcdenbk	canopy density above mid-channel
+ pct.fast	percent fast water
+ xslope		channel slope
+ lsub.dmm	substrate diameter
+ log.WSAREA	watershed area above site
+ ELEV.X		elevation
+ SLOPMEAN	mean slope in watershed above site
+ log.POPDENKM   human population density
+ FOR.NLCD	percent land forest
+ AG.NLCD	percent land in agriculture
+ log.URB.NLCD   percent land urban
+ log.MINENLCD   percent land mined
+
+Note: "log." indicates the variable was transformed logarithmically 

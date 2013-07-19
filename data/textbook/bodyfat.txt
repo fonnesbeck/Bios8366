@@ -1,0 +1,43 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: bodyfat.dat
+Chapter: 12
+Discussed in: Problem 12.2
+
+Source: Excerpt of data given in R. W. Johnson (1996), "Fitting
+  Percentage of Body Fat to Simple Body Measurements", Journal of
+  Statistics Education, vol 4.  Online:
+  www.amstat.org/publications/jse/
+
+Description: Percentage of body fat for 251 men.  Body fat was
+estimated using an underwater weighing technique.  In addition, the
+variables age, weight, height, and ten body circumference measurements
+were recorded for each subject.
+
+Variable    
+label	    Additional information about variable
+________________________________________________________
+fat	    Percent body fat using Brozek's equation (Density
+		    determined from underwater weighing) 
+age	    Age (years)
+weight	    Weight (lbs)
+height	    Height (inches)
+neck	    Neck circumference (cm)
+chest	    Chest circumference (cm)
+abd	    Abdomen 2 circumference (cm)
+hip	    Hip circumference (cm)
+thigh	    Thigh circumference (cm)
+knee	    Knee circumference (cm)
+ankle	    Ankle circumference (cm)
+biceps	    Biceps (extended) circumference (cm)
+forearm	    Forearm circumference (cm)
+wrist	    Wrist circumference (cm)
+________________________________________________________
+
+Variable labels: fat, age, weight, height, neck, chest, abd, hip,
+   thigh, knee, ankle, biceps, forearm, wrist
+
+
+
+

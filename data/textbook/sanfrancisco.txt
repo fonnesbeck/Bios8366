@@ -1,0 +1,19 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: sanfrancisco.dat
+Chapter: 1
+Discussed in: Example 1.3
+
+Source:  Jan Null, Golden Gate Weather Services, Climate of San Francisco, 
+	 [Online] ggweather.com/sf/climate.html
+
+Description: Rainfall amounts (inches) for San Francisco for Novermber
+through March from November 1990 until March 2002.  During these
+months, San Francisco typically receives more than 80% of its
+precipitation.  A zero entry indicates that less than 0.01 inches of
+precipitation fell on that day.  
+
+Variable labels: Month, Day, Year, Amount
+
+

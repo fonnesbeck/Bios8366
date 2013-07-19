@@ -1,0 +1,14 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: alloy.dat
+Chapter: 9
+Discussed in: Examples 9.3, 9.4, 9.5, 9.6, 9.7, 9.8
+
+Source:  Page 27, table in problem C of N.R. Draper and H. Smith
+(1968) Applied Statistics, Wiley.
+
+Description: Thirteen measurements of corrosion loss (response) in
+copper-nickel alloys, each with a specific iron content (predictor).
+
+Variable labels: ironcontent, corrosionloss

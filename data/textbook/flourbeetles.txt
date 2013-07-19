@@ -1,0 +1,15 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: flourbeetles.dat
+Chapter: 2
+Discussed in: Problem 2.6
+
+Source: Royal N. Chapman, "The Quantitative Analysis of Environmental
+Factors," Ecology, Vol 9, No 2, (April 1928), 111-122.
+
+Description: Counts of a flour beetle (Tribolium confusum) population
+at various points in time (days).  Beetles in all stages of
+development were counted, and food supply was carefully controlled.
+
+Variable labels: days, beetles

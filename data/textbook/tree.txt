@@ -1,0 +1,14 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: tree.dat
+Chapter: 9
+Discussed in: Example 9.11
+
+Source: see authors & citations in dplR package for R
+
+Description: Basal area growth increments for a bristlecone pine tree
+for 452 years from 1532 to 1983. Note: the basal area growth column
+has already been detrended and standardized.
+
+Variable labels: year, basal

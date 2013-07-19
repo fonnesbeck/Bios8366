@@ -1,0 +1,15 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: memory.dat
+Chapter: 11
+Discussed in: Problem 11.4
+
+Source: Table 11-1 on page 383 in F. Mosteller, R. E. K. Rourke and
+G. B. Thomas (1970), Probability with Statistical Applications,
+Addison-Wesley, 2nd edition.
+
+Description: Average percentage memory retention was measured against
+passing time, for times lapses from one minute to one week.
+
+Variable labels: timeperiod, retention

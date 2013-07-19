@@ -1,0 +1,20 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: leukemia.dat
+Chapter: 2
+Discussed in: Problem 2.3
+
+Reference: E. J. Freireich et al. (1963).  The effect of
+6-{M}ercaptopurine on the duraction of steriod-induced  remissions
+in acute leukemia: A model for evaluation fo other potentially
+useful therapy.  Blood, 21(6): 699-716.
+
+Description: Remission times for patients suffering from acute
+leukemia and receiving either 6-mercaptopurine (6-MP) or a placebo.
+One year after the start of the study, the length (weeks)
+of the remission period for each patient was recorded.
+Some outcomes were censored because remission extended beyond the
+study period. 
+
+Variable labels: remissiontime, censored, group

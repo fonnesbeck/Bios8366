@@ -1,0 +1,15 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: alzheimers.dat
+Chapter: 5
+Discussed in: Examples 5.1, 5.2, 5.3, 5.4, 5.5
+
+Source: Display 11.1 on pages 198-199 of G. Der and B. S. Everitt, A
+Handbook of Statistical Analyses using SAS, 2nd edition (2002),
+Chapman and Hall.
+
+Description: Words recalled on five consecutive monthly tests for 22
+Alzheimer's patients receiving lecithin.   
+
+Variable labels: subject, month, words

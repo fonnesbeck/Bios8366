@@ -1,0 +1,11 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: gdp.dat
+Chapter: 9
+Discussed in: Example 9.9
+
+Description: Average percent change in gross domestic product
+for 16 countries for 40 years, 1871-1910. 
+
+Variable labels: year, gdpchange

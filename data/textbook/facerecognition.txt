@@ -1,0 +1,26 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: face-recognition.dat
+Chapter: 2, 12
+Discussed in: Example 2.5, Problem 12.4
+
+Source:  Geof Givens and Ross Beveridge, Colorado State University
+
+Description: These data arise from the evaluation of a human face
+recognition algorithm. Details of the experiment are given in the
+text.  The variables relate to pairs of images of the same person, one
+of which is the probe image.  The response variable is "match", with
+match=1 indicating that the probe image was correctly matched to the
+other image of the same person and match=0 indicating that the probe
+was incorrectly matched to an image of someone else.  These predictors
+include a measure of pixel intensity differences in the eye region
+(eyediff) and in the nose/cheek region (nosecheekdiff), and a measure
+of comparative pixel intensity variability between the two images of
+the same person (variabilityratio). 
+
+** Note: these data are slightly different than the dataset used in
+the book example, but the result should be very close.
+
+Variable labels: match, eyediff, nosecheekdiff, variabilityratio
+

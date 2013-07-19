@@ -1,0 +1,20 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: oilspills.dat
+Chapter: 2
+Discussed in: Problem 2.5
+
+Source:  Excerpts of Table 4 on page 309 of C. McMahon Anderson and
+R. Pl Labelle, "Update of comparative occurrence rates for offshore
+oil spills," Spill Science & Technology Bulletin, 6:5/6, 303-321.
+
+Description: Records of crude oil spills of at least 1000 barrels from
+tankers in US waters during 1974-1999.  For each year, the data
+indicate the number of spills, the estimated amount of oil shipped
+through US waters as part of US import/export operations (adjusted for
+spillage in international or foreign waters), and the amount of oil
+shipped through US waters during domestic shipments.  Oil shipments
+are measured in billions of barrels of oil (Bbbl).
+
+Variable labels: year, spills, importexport, domestic

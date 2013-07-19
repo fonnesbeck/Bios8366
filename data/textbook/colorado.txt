@@ -1,0 +1,33 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: colorado.dat
+Chapter: 6
+Discussed in: Terrain navigation examples 6.7 - 6.8
+
+Description: Topographical data for a region of Colorado
+
+Variable labels: These data have a special format.  Note below:
+
+######################################################
+##The Colorado data are stored as a matrix suitable
+##for reading and plotting using the image() command.
+##The first row and column of the matrix are *not* 
+##elevations.  They are lat,lon coordinates (with a NA
+##in the 1,1 spot in the matrix.  The first row and column
+##should therefore be stripped away (see below).  The
+##remainder of the matrix gives elevations over the
+##coordinate system.  In summary, the following R
+##code should be used to read and arrange the data:
+##
+
+colo=as.matrix(read.table(file="colorado.dat",sep="",header=F))
+colorado.lat=colo[1,-1]
+colorado.lon=colo[-1,1]
+colorado.elev=colo[-1,][,-1]
+dim(colorado.elev)  #should be 186 x 125
+image(colorado.lon,colorado.lat,colorado.elev,col=gray(seq(.25,1,len=200)),
+ xlim=c(-6000,34000),ylim=c(-6000,34000))
+
+##
+#################################################

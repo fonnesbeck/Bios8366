@@ -1,0 +1,11 @@
+These data are used in the book "Computational Statistics" 
+by G.H. Givens and J.A. Hoeting.
+
+Name: 2drotation.dat
+Chapter: 10
+Discussed in: Example 10.8
+
+Description: Five hundred points (one per row) from the bivariate
+normal-gamma rotation described in Example 10.8.
+
+Variable labels: x1, x2
