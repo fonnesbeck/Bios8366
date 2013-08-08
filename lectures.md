@@ -21,48 +21,70 @@ Course Introduction
 
 ### Section 1. The Python Programming Language
 
-Introduction to Python
-Programming with Python
+[Introduction to Python](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section1_1-Introduction-to-Python.ipynb)
+
+[Programming with Python](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section1_2-Programming-with-Python.ipynb)
 
 ### Section 2. Python's Scientific Stack
 
 IPython
+
 NumPy
+
 SciPy
+
 Matplotlib
+
 Introduction to Pandas
+
 Data Wrangling with Pandas
 
 ### Section 3. Optimization
 
 Review of Univariate and Multivariate Optimization
+
 Combinatorial Optimization
+
 Expectation Maximization
+
 
 ### Section 4. Markov Chain Monte Carlo
 
 Numerical Integration
+
 Metropolis-Hastings Algorithm
+
 Gibbs Sampling
+
 Hierarchical Models
+
 Introduction to PyMC
+
 Approximate Bayesian Computing
+
 
 ### Section 5. Non-parametric Bayesian Computing
 
 Gaussian Processes
+
 Dirichlet Processes
+
 
 ### Section 6. Machine Learning
 
 Basis Functions and Non-parametic Density Estimation
+
 Splines
+
 Support Vector Machines
+
 Clustering
+
 
 ### Section 7. High-performance Computing
 
 Cython
+
 Parallel Processing
 
 ---
