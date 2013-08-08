@@ -43,9 +43,9 @@ Data Wrangling with Pandas
 
 Review of Univariate and Multivariate Optimization
 
-Combinatorial Optimization
+[Combinatorial Optimization](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section3_2-Combinatorial-Optimization.ipynb)
 
-Expectation Maximization
+[Expectation Maximization](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section3_3-Expectation-Maximization.ipynb)
 
 
 ### Section 4. Markov Chain Monte Carlo
@@ -60,14 +60,14 @@ Hierarchical Models
 
 Introduction to PyMC
 
-Approximate Bayesian Computing
+[Approximate Bayesian Computing](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_6-Approximate-Bayesian-Computing.ipynb)
 
 
 ### Section 5. Non-parametric Bayesian Computing
 
-Gaussian Processes
+[Gaussian Processes](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section5_1-Gaussian-Processes.ipynb)
 
-Dirichlet Processes
+[Dirichlet Processes](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section5_2-Dirichlet-Processes.ipynb)
 
 
 ### Section 6. Machine Learning
@@ -78,7 +78,7 @@ Splines
 
 Support Vector Machines
 
-Clustering
+[Clustering](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_4-Clustering.ipynb)
 
 
 ### Section 7. High-performance Computing
