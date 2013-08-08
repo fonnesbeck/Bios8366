@@ -7,7 +7,7 @@ title: Advanced Statistical Computing
 
 # Lectures
 
-**Lectures**: Tuesdays and Thursdays from 10:30am to 12:00pm in [RLH 415A](http://goo.gl/maps/4c3W)†
+**Time and Place**: Tuesdays and Thursdays from 10:30am to 12:00pm in [RLH 415A](http://goo.gl/maps/4c3W)†
 
 **Office hours**: By appointment
 
