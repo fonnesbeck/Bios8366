@@ -76,7 +76,7 @@ Basis Functions and Non-parametic Density Estimation
 
 Splines
 
-Support Vector Machines
+[Support Vector Machines](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_3-Support-Vector-Machines.ipynb)
 
 [Clustering](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_4-Clustering.ipynb)
 
