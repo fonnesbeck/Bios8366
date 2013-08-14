@@ -35,9 +35,9 @@ Course Introduction
 
 Matplotlib
 
-Introduction to Pandas
+[Introduction to Pandas](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section2_5-Introduction-to-Pandas.ipynb)
 
-Data Wrangling with Pandas
+[Data Wrangling with Pandas](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section2_6-Data-Wrangling-with-Pandas.ipynb)
 
 ### Section 3. Optimization
 
