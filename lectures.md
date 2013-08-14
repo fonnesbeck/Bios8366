@@ -27,11 +27,11 @@ Course Introduction
 
 ### Section 2. Python's Scientific Stack
 
-IPython
+[IPython](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section2_1-IPython.ipynb)
 
-NumPy
+[NumPy](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section2_2-NumPy.ipynb)
 
-SciPy
+[SciPy](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section2_3-SciPy.ipynb)
 
 Matplotlib
 
@@ -83,7 +83,8 @@ Splines
 
 ### Section 7. High-performance Computing
 
-Cython
+[Cython](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section7_1-Cython.ipynb)
+
 
 Parallel Processing
 
