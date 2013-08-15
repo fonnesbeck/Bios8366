@@ -9,7 +9,7 @@ title: Advanced Statistical Computing
 
 Bios 366 is taught using Python and the "Scientific Stack", a set of core scientific computing packages written and maintained by various third parties.
 
-***Notice***: *We will be holding a software install clinic on Monday, August 19 in D-2109 for anyone who needs assistance or advice on installing software for the course.
+***Notice***: *We will be holding a software install clinic on Monday, August 19 in D-2109 for anyone who needs assistance or advice on installing software for the course.*
 
 ## Python
 
