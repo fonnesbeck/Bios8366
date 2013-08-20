@@ -33,11 +33,13 @@ Course Introduction
 
 [SciPy](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section2_3-SciPy.ipynb)
 
-Matplotlib
+[Matplotlib](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section2_4-Matplotlib.ipynb)
 
 [Introduction to Pandas](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section2_5-Introduction-to-Pandas.ipynb)
 
 [Data Wrangling with Pandas](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section2_6-Data-Wrangling-with-Pandas.ipynb)
+
+[Plotting with Pandas](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section2_7-Plotting-with-Pandas.ipynb)
 
 ### Section 3. Optimization
 
