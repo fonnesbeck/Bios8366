@@ -50,7 +50,7 @@ Review of Univariate and Multivariate Optimization
 [Expectation Maximization](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section3_3-Expectation-Maximization.ipynb)
 
 
-### Section 4. Markov Chain Monte Carlo
+### Section 4. Bayesian Modeling and MCMC
 
 Numerical Integration
 
@@ -72,7 +72,7 @@ Introduction to PyMC
 [Dirichlet Processes](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section5_2-Dirichlet-Processes.ipynb)
 
 
-### Section 6. Machine Learning
+### Section 6. Statistical Learning
 
 Basis Functions and Non-parametic Density Estimation
 
