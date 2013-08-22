@@ -20,3 +20,5 @@ The following books are not required for the course, but are useful references t
 [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani and Jerome Friedman
 
 [Handbook of Markov Chain Monte Carlo](http://www.amazon.com/Handbook-Chapman-Handbooks-Statistical-Methods/dp/1420079417) by Steve Brooks, Andrew Gelman, Galin Jones and Xiao-Li Meng
+
+[Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do?code=WKDATASC) by Wes McKinney
