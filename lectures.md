@@ -7,9 +7,9 @@ title: Advanced Statistical Computing
 
 # Lectures
 
-**Time and Place**: 
+**Time and Place**: Lectures are held in [Light Hall](http://goo.gl/maps/4c3W)
 
-* Tuesdays from 10:30am to 12:00pm in [RLH 504](http://goo.gl/maps/4c3W)†
+* Tuesdays from 10:30am to 12:00pm in RLH 504†
 * Thursdays from 10:30am to 12:00pm in RLH 412‡
 
 **Office hours**: By appointment
