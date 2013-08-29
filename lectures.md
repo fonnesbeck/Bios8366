@@ -7,7 +7,10 @@ title: Advanced Statistical Computing
 
 # Lectures
 
-**Time and Place**: Tuesdays and Thursdays from 10:30am to 12:00pm in [RLH 415A](http://goo.gl/maps/4c3W)†
+**Time and Place**: 
+
+* Tuesdays from 10:30am to 12:00pm in [RLH 504](http://goo.gl/maps/4c3W)†
+* Thursdays from 10:30am to 12:00pm in RLH 412‡
 
 **Office hours**: By appointment
 
@@ -99,4 +102,5 @@ Parallel Processing
 
 ---
 
-†*Note that on 9/17 and 11/12 class will be held in RLH 419A*
+†*Note that on 10/1 class will be held in RLH 431*
+‡*Note that on 9/5 and 11/14 class will be held in RLH 407D*
