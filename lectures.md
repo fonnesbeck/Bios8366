@@ -103,4 +103,4 @@ Parallel Processing
 ---
 
 †*Note that on 10/1 class will be held in RLH 431*
-‡*Note that on 9/5 and 11/14 class will be held in RLH 407D*
+‡*Note that on 9/5 class will be held in RLH 407D*
