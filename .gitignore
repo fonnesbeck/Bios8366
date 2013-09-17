@@ -31,3 +31,10 @@ resources
 roster*
 admin
 .ipynb_checkpoints/
+
+# LaTeX
+*.synctex.gz
+*.out
+*.aux
+*.idx
+*.log
