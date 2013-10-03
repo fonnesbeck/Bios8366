@@ -16,4 +16,4 @@ Course covers numerical optimization, Markov Chain Monte Carlo (MCMC), estimatio
 
 [Chris Fonnesbeck](chris.fonnesbeck@vanderbilt.edu), PhD, Assistant Professor of Biostatistics
 
-11th floor, 2525 West End Avenue
+11137, 11th floor, 2525 West End Avenue
