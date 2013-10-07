@@ -55,7 +55,7 @@ Course Introduction
 
 ### Section 4. Bayesian Modeling and MCMC
 
-Introduction to Bayesian Methods
+[Computational Methods in Bayesian Analysis](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_1-Bayesian-Computation.ipynb)
 
 Numerical Integration
 
