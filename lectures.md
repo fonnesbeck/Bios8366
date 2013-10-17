@@ -57,11 +57,7 @@ Course Introduction
 
 [Computational Methods in Bayesian Analysis](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_1-Bayesian-Computation.ipynb)
 
-Numerical Integration
-
-Metropolis-Hastings Algorithm
-
-Gibbs Sampling
+[Markov chain Monte Carlo]((http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_2-MCMC.ipynb)
 
 Hierarchical Models
 
