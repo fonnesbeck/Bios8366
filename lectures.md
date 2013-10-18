@@ -7,10 +7,7 @@ title: Advanced Statistical Computing
 
 # Lectures
 
-**Time and Place**: Lectures are held in [Light Hall](http://goo.gl/maps/4c3W)
-
-* Tuesdays from 10:30am to 12:00pm in RLH 504†
-* Thursdays from 10:30am to 12:00pm in RLH 412‡
+**Time and Place**: Lectures are held in Room 11139, [2525 West End Avenue](http://bit.ly/17y9ZxH).
 
 **Office hours**: By appointment
 
@@ -98,5 +95,3 @@ Parallel Processing
 
 ---
 
-†*Note that on 10/1 class will be held in RLH 431*
-‡*Note that on 9/5 class will be held in RLH 407D*
