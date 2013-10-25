@@ -54,17 +54,20 @@ Course Introduction
 
 [Computational Methods in Bayesian Analysis](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_1-Bayesian-Computation.ipynb)
 
-[Markov chain Monte Carlo]((http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_2-MCMC.ipynb)
+[Markov chain Monte Carlo](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_2-MCMC.ipynb)
 
-Hierarchical Models
+[Introduction to PyMC](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_2-Introduction-to-PyMC.ipynb)
+
+[Model Building with PyMC](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_3-Model-Building-with-PyMC.ipynb)
 
 Model Checking
 
-Introduction to PyMC
+Hamiltonian Monte Carlo
 
 [Approximate Bayesian Computing](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_6-Approximate-Bayesian-Computing.ipynb)
 
-Hamiltonian Monte Carlo
+Hierarchical Models
+
 
 ### Section 5. Non-parametric Bayesian Computing
 
