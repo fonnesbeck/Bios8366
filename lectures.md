@@ -60,7 +60,7 @@ Course Introduction
 
 [Model Building with PyMC](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_3-Model-Building-with-PyMC.ipynb)
 
-Model Checking
+[Model Checking](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_5-Model-Checking.ipynb)
 
 Hamiltonian Monte Carlo
 
