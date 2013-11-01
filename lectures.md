@@ -62,11 +62,9 @@ Course Introduction
 
 [Model Checking](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_5-Model-Checking.ipynb)
 
-Hamiltonian Monte Carlo
+[Hamiltonian Monte Carlo](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_6-Hamiltonian-Monte-Carlo.ipynb)
 
 [Approximate Bayesian Computing](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_6-Approximate-Bayesian-Computing.ipynb)
-
-Hierarchical Models
 
 
 ### Section 5. Non-parametric Bayesian Computing
@@ -85,6 +83,8 @@ Basis Functions and Non-parametic Density Estimation
 Splines
 
 [Support Vector Machines](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_3-Support-Vector-Machines.ipynb)
+
+Cross-validation
 
 [Clustering](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_4-Clustering.ipynb)
 
