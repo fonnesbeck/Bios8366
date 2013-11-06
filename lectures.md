@@ -76,17 +76,13 @@ Course Introduction
 
 ### Section 6. Statistical Learning
 
-Introduction to `scikits-learn`
+[Introduction to `scikits-learn`](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_1-Scikit-Learn.ipynb)
 
-Basis Functions and Non-parametic Density Estimation
+[Clustering](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_2-Clustering.ipynb)
 
-Splines
+[Model Selection and Validation](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_3-Model-Selection-and-Validation.ipynb)
 
-[Support Vector Machines](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_3-Support-Vector-Machines.ipynb)
-
-Cross-validation
-
-[Clustering](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_4-Clustering.ipynb)
+[Support Vector Machines](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_4-Support-Vector-Machines.ipynb)
 
 
 ### Section 7. High-performance Computing
