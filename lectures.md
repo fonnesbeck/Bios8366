@@ -84,13 +84,15 @@ Course Introduction
 
 [Support Vector Machines](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_4-Support-Vector-Machines.ipynb)
 
+[Decision Treess](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_5-Decision-Trees.ipynb)
+
 
 ### Section 7. High-performance Computing
 
 [Cython](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section7_1-Cython.ipynb)
 
 
-Parallel Processing
+[Parallel Processing](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section7_2-Parallel-Processing.ipynb)
 
 ---
 
