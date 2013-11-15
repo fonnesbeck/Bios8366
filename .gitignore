@@ -30,6 +30,7 @@ nosetests.xml
 resources
 roster*
 admin
+archive
 .ipynb_checkpoints/
 
 # LaTeX
