@@ -13,7 +13,7 @@ Bios 366 is taught using Python and the "Scientific Stack", a set of core scient
 
 ## Python
 
-The first step is to install Python on your computer. I will be teaching this course based on **Python 2.7.2**. If you are running Mac OS X, Python is already included in the operating system that is shipped with the computer. I recommend that you upgrade to OS X 10.8 (Mountain Lion) if possible, so that you are running a relatively recent version of Python.
+The first step is to install Python on your computer. I will be teaching this course based on **Python 2.7.5**. If you are running Mac OS X, Python is already included in the operating system that is shipped with the computer. I recommend that you upgrade to OS X 10.9 (Mavericks) if possible, so that you are running a relatively recent version of Python.
 
 If you are running Windows or Linux, you may not already have Python installed (though it is installed by default on many Linux distributions). If Python is not on your system, you can either download an installer from [Python.org](http://python.org) or install a third-party distribution (see below). I recommend the latter, since these distributions are enhanced, containing most or all of the packages required for the course.
 
@@ -40,7 +40,7 @@ These are the most widely-used distributions for scientific computing in Python.
 
 ### Mac OS X
 
-Since OS X ships with Python pre-installed, it is often inconvenient to install another Python distribution. For users running OS X 10.8 (Mountain Lion), I build and maintain the [Scipy Superpack](http://fonnesbeck.github.io/ScipySuperpack/) which are recent builds of fundamental Python scientific computing packages for OS X. The installer is a simple shell script that will install recent 64-bit builds of Numpy,  Scipy, Matplotlib, IPython, Pandas, Statsmodels, Scikit-Learn and PyMC.
+Since OS X ships with Python pre-installed, it is often inconvenient to install another Python distribution. For users running the latest version of OS X, I build and maintain the [Scipy Superpack](http://fonnesbeck.github.io/ScipySuperpack/) which are recent builds of fundamental Python scientific computing packages for OS X. The installer is a simple shell script that will install recent 64-bit builds of Numpy,  Scipy, Matplotlib, IPython, Pandas, Statsmodels, Scikit-Learn and PyMC.
 
 ### Ubuntu & Debian
 
