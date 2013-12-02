@@ -89,7 +89,7 @@ Course Introduction
 
 ### Section 7. High-performance Computing
 
-[Cython](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section7_1-Cython.ipynb)
+[numexpr and Cython](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section7_1-High-Performance-Python.ipynb)
 
 
 [Parallel Processing](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section7_2-Parallel-Processing.ipynb)
