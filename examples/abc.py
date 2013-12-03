@@ -22,6 +22,6 @@ def abc(y, N, epsilon):
 
 if __name__ == '__main__':
     y = np.random.normal(4, 2, 50)
-    N = 100
+    N = 20
     epsilon = [0.2, 0.8]
     print abc(y, N, epsilon).mean(0)
