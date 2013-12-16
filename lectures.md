@@ -64,7 +64,7 @@ Course Introduction
 
 [Hamiltonian Monte Carlo](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_6-Hamiltonian-Monte-Carlo.ipynb)
 
-[Approximate Bayesian Computing](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_6-Approximate-Bayesian-Computing.ipynb)
+[Approximate Bayesian Computing](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_7-Approximate-Bayesian-Computing.ipynb)
 
 
 ### Section 5. Non-parametric Bayesian Computing
