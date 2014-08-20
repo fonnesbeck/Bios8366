@@ -7,7 +7,7 @@ title: Advanced Statistical Computing
 
 # Course Synopsis
 
-Course covers numerical optimization, Markov Chain Monte Carlo (MCMC), estimation-maximization (EM) algorithms, Gaussian processes, Hamiltonian Monte Carlo, and data augmentation algorithms with applications for model fitting and techniques for dealing with missing data.
+Course covers numerical optimization, Markov Chain Monte Carlo (MCMC), estimation-maximization (EM) algorithms, Gaussian processes, Hamiltonian Monte Carlo, statistical/machine learning, data augmentation algorithms, and techniques for dealing with missing data. Students will also be introduced to the Python programming language, and its use for statistical computing.
 
 **Prerequisites**: Bios 301 or permission of instructor. Students must be familiar with the [Git](http://git-scm.com/) version control system.
 
