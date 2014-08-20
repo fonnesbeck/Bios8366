@@ -13,7 +13,7 @@ Bios 366 is taught using Python and the "Scientific Stack", a set of core scient
 
 ## Python
 
-The first step is to install Python on your computer. I will be teaching this course based on **Python 2.7.5**. If you are running Mac OS X, Python is already included in the operating system that is shipped with the computer. I recommend that you upgrade to OS X 10.9 (Mavericks) if possible, so that you are running a relatively recent version of Python.
+The first step is to install Python on your computer. I will be teaching this course based on **Python 2.7.6**. If you are running Mac OS X, Python is already included in the operating system that is shipped with the computer. I recommend that you upgrade to OS X 10.9 (Mavericks) if possible, so that you are running a relatively recent version of Python.
 
 If you are running Windows or Linux, you may not already have Python installed (though it is installed by default on many Linux distributions). If Python is not on your system, you can either download an installer from [Python.org](http://python.org) or install a third-party distribution (see below). I recommend the latter, since these distributions are enhanced, containing most or all of the packages required for the course.
 
@@ -31,12 +31,13 @@ If your Python distribution does not include these packages, you can install the
 
 ### All-in-one Scientific Python
 
-There are a handful of enhanced Python distributions that include easy installers and all of the packages required for this course.
+Perhaps the easiest way to get a feature-complete version of Python on your system is to install the [Anaconda](http://continuum.io/downloads.html) distribution by Continuum Analytics. Anaconda is a completely free Python environment that includes includes almost 200 of the best Python packages for science and data analysis. Its simply a matter of downloading the installer (either graphical or command line), and running it on your system.
 
-* [Anaconda](http://continuum.io/downloads.html) by Continuum Analytics. Completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing
-* [Enthought Canopy](https://www.enthought.com/products/canopy/) Enthought Canopy is a comprehensive Python analysis environment with easy installation & updates of the proven Enthought Python distribution.
+Once Anaconda is installed, additional packages may be added to your installation via the `conda` utility. For example, to install SymPy one simply has to run:
 
-These are the most widely-used distributions for scientific computing in Python. Alternatives include [Pyzo](http://www.pyzo.org/), [WinPython](http://code.google.com/p/winpython/) and [Python(x,y)](http://code.google.com/p/pythonxy/).
+    conda install sympy
+    
+from the terminal. It, along with all its dependencies, will be installed from binaries that have been built and checked by Continuum Analytics.
 
 ### Mac OS X
 
@@ -86,4 +87,4 @@ For preparing assignments and final projects, students may select from a variety
 * [Multimarkdown](http://fletcherpenney.net/multimarkdown/ "MultiMarkdown") An enhanced version of Markdown.
 * [reStructuredText](http://docutils.sourceforge.net/rst.html "reStructuredText") An easy-to-read, what-you-see-is-what-you-get plaintext markup syntax and parser system
 
-The use of traditional word processing software, such as Microsoft Word or OpenOffice is not permitted in Bios 366.
+***The use of traditional word processing software, such as Microsoft Word or OpenOffice is not permitted in Bios 366.***

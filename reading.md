@@ -13,6 +13,10 @@ title: Advanced Statistical Computing
 
 [Computational Statistics](http://www.stat.colostate.edu/computationalstatistics/) by Geof H. Givens and Jennifer A. Hoeting
 
+### Weekly readings
+
+Students will be assigned one or more papers to be read during the week prior to the lecture in which they will be discussed.
+
 ### Additional references
 
 The following books are not required for the course, but are useful references that include some material in the course that is not covered by Givens and Hoeting
