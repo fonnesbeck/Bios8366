@@ -9,8 +9,6 @@ title: Advanced Statistical Computing
 
 Bios 366 is taught using Python and the "Scientific Stack", a set of core scientific computing packages written and maintained by various third parties.
 
-***Notice***: *We will be holding a software install clinic on Monday, August 19 in D-2109 for anyone who needs assistance or advice on installing software for the course.*
-
 ## Python
 
 The first step is to install Python on your computer. I will be teaching this course based on **Python 2.7.6**. If you are running Mac OS X, Python is already included in the operating system that is shipped with the computer. I recommend that you upgrade to OS X 10.9 (Mavericks) if possible, so that you are running a relatively recent version of Python.
