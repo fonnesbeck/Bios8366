@@ -84,7 +84,11 @@ Course Introduction
 
 [Support Vector Machines](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_4-Support-Vector-Machines.ipynb)
 
-[Decision Treess](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_5-Decision-Trees.ipynb)
+[Decision Trees](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_5-Decision-Trees.ipynb)
+
+[Boosting](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_6-Boosting.ipynb)
+
+[Neural Networks](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_7-Neural-Networks.ipynb)
 
 
 ### Section 7. High-performance Computing
