@@ -1,10 +1,17 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn import cross_validation, linear_model
+
+
 vlbw = pd.read_csv("../data/vlbw.csv", index_col=0)
 
 y = vlbw.pop('ivh')
 
-brier = lambda mod, X, y: ((mod.fit(X,y).predict_proba(X) - y)**2).mean()
+def brier(mod, X, y): 
+    return ((mod.fit(X,y).predict_proba(X) - y)**2).mean()
 
-C = np.linspace(0, 10, 20)
+C = np.logspace(-3, 2, 20)
 
 scores = np.empty(len(C))
 scores_std = np.empty(len(C))
@@ -24,3 +31,23 @@ plt.ylabel('Brier score')
 plt.xlabel('alpha')
 plt.axhline(np.max(scores), linestyle='--', color='.5')
 plt.text(5e-2, np.max(scores)+1e-4, str(np.max(scores).round(3)))
+
+
+
+from sklearn.linear_model import LogisticRegression
+from sklearn.preprocessing import normalize
+
+y = vlbw.pop('ivh').values
+X = vlbw
+
+from sklearn.grid_search import GridSearchCV
+cvalues = [0.1, 1, 10,100]
+grid = GridSearchCV(LogisticRegression(), 
+    param_grid={'C': cvalues}, scoring='average_precision')
+gf = grid.fit(X, y)
+gf.grid_scores_
+
+grid = GridSearchCV(LogisticRegression(), 
+            param_grid={'C': cvalues}, scoring='roc_auc')
+gf = grid.fit(X, y)
+gf.grid_scores_
