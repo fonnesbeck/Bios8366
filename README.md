@@ -1,5 +1,6 @@
-Bios366
-=======
+# Bios366
+
+### NOTE: Due to a change in Vanderbilt University's course numbering system, BIOS 366 will become BIOS 8366 beginning in Fall 2015. In the coming weeks I will change the name of the repository to this new designation.
 
 Advanced Statistical Computing at Vanderbilt University's Department of Biostatistics
 
