@@ -5,9 +5,9 @@ title: Advanced Statistical Computing
 
 ---
 
-# Bios 366 Final Project
+# Bios 8366 Final Project
 
-Bios 366 students are introduced to a range of modern methods for optimization, machine learning, and probabilistic modeling. In addition to the assignments and in-class examples, it is beneficial for practitioners to gain experience using these techniques in a more realistic setting, using data that are collected for use in real-world biostatistical applications. Hence, 50% of the final grade in Bios 366 will be determined by students' performance in a course project.
+Bios 8366 students are introduced to a range of modern methods for optimization, machine learning, and probabilistic modeling. In addition to the assignments and in-class examples, it is beneficial for practitioners to gain experience using these techniques in a more realistic setting, using data that are collected for use in real-world biostatistical applications. Hence, 50% of the final grade in Bios 8366 will be determined by students' performance in a course project.
 
 Students will be allocated to groups of 2 or 3. Each group will be given access to a Box.com link containing the project data. Completed projects should be pushed to the repository (**without the data**) no later than noon on Friday, Dec. 12, 2014. All students in a group will receive the same project grade.
 
@@ -43,7 +43,7 @@ The Vanderbilt hospital data is an extraction of 10,000 subjects from the [synth
 : Admit/Discharge/Transfer events.
 
 
-**The objective of the Bios 366 course project is to employ modeling tools introduced in this course to fit prediction models for patient readmission within 30 days of discharge using synthetic derivative data.**
+**The objective of the Bios 8366 course project is to employ modeling tools introduced in this course to fit prediction models for patient readmission within 30 days of discharge using synthetic derivative data.**
 
 Students may use any of the methods covered in the course syllabus, or any related methods, to develop candidate predictive models. Projects should include at least two alternative approaches, and each approach should be iteratively improved or tuned to yield the most competitive models.
 

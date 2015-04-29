@@ -21,88 +21,88 @@ Course Introduction
 
 ### Section 1. The Python Programming Language
 
-[Introduction to Python](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section1_1-Introduction-to-Python.ipynb)
+[Introduction to Python](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section1_1-Introduction-to-Python.ipynb)
 
-[Programming with Python](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section1_2-Programming-with-Python.ipynb)
+[Programming with Python](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section1_2-Programming-with-Python.ipynb)
 
 ### Section 2. Python's Scientific Stack
 
-[IPython](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section2_1-IPython.ipynb)
+[IPython](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_1-IPython.ipynb)
 
-[NumPy](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section2_2-NumPy.ipynb)
+[NumPy](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_2-NumPy.ipynb)
 
-[SciPy](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section2_3-SciPy.ipynb)
+[SciPy](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_3-SciPy.ipynb)
 
-[Matplotlib](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section2_4-Matplotlib.ipynb)
+[Matplotlib](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_4-Matplotlib.ipynb)
 
-[Introduction to Pandas](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section2_5-Introduction-to-Pandas.ipynb)
+[Introduction to Pandas](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_5-Introduction-to-Pandas.ipynb)
 
-[Data Wrangling with Pandas](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section2_6-Data-Wrangling-with-Pandas.ipynb)
+[Data Wrangling with Pandas](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_6-Data-Wrangling-with-Pandas.ipynb)
 
-[Plotting with Pandas](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section2_7-Plotting-with-Pandas.ipynb)
+[Plotting with Pandas](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_7-Plotting-with-Pandas.ipynb)
 
 ### Section 3. Optimization
 
-[Review of Univariate and Multivariate Optimization](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section3_1-Univariate-and-Multivariate-Optimization.ipynb)
+[Review of Univariate and Multivariate Optimization](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section3_1-Univariate-and-Multivariate-Optimization.ipynb)
 
-[Combinatorial Optimization](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section3_2-Combinatorial-Optimization.ipynb)
+[Combinatorial Optimization](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section3_2-Combinatorial-Optimization.ipynb)
 
-[Expectation Maximization](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section3_3-Expectation-Maximization.ipynb)
+[Expectation Maximization](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section3_3-Expectation-Maximization.ipynb)
 
 
 ### Section 4. Bayesian Modeling and MCMC
 
-[Computational Methods in Bayesian Analysis](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_1-Bayesian-Computation.ipynb)
+[Computational Methods in Bayesian Analysis](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section4_1-Bayesian-Computation.ipynb)
 
-[Markov chain Monte Carlo](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_2-MCMC.ipynb)
+[Markov chain Monte Carlo](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section4_2-MCMC.ipynb)
 
-[Introduction to PyMC](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_3-Introduction-to-PyMC.ipynb)
+[Introduction to PyMC](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section4_3-Introduction-to-PyMC.ipynb)
 
-[Model Building with PyMC](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_4-Model-Building-with-PyMC.ipynb)
+[Model Building with PyMC](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section4_4-Model-Building-with-PyMC.ipynb)
 
-[Model Checking](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_5-Model-Checking.ipynb)
+[Model Checking](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section4_5-Model-Checking.ipynb)
 
-[Hamiltonian Monte Carlo](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_6-Hamiltonian-Monte-Carlo.ipynb)
+[Hamiltonian Monte Carlo](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section4_6-Hamiltonian-Monte-Carlo.ipynb)
 
-[Approximate Bayesian Computing](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section4_7-Approximate-Bayesian-Computing.ipynb)
+[Approximate Bayesian Computing](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section4_7-Approximate-Bayesian-Computing.ipynb)
 
 
 ### Section 5. Non-parametric Bayesian Computing
 
-[Gaussian Processes](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section5_1-Gaussian-Processes.ipynb)
+[Gaussian Processes](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section5_1-Gaussian-Processes.ipynb)
 
-[Dirichlet Processes](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section5_2-Dirichlet-Processes.ipynb)
+[Dirichlet Processes](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section5_2-Dirichlet-Processes.ipynb)
 
 
 ### Section 6. Statistical Learning
 
-[Introduction to `scikit-learn`](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_1-Scikit-Learn.ipynb)
+[Introduction to `scikit-learn`](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section6_1-Scikit-Learn.ipynb)
 
-[Clustering](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_2-Clustering.ipynb)
+[Clustering](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section6_2-Clustering.ipynb)
 
-[Model Selection and Validation](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_3-Model-Selection-and-Validation.ipynb)
+[Model Selection and Validation](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section6_3-Model-Selection-and-Validation.ipynb)
 
-[Support Vector Machines](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_4-Support-Vector-Machines.ipynb)
+[Support Vector Machines](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section6_4-Support-Vector-Machines.ipynb)
 
-[Decision Trees](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_5-Decision-Trees.ipynb)
+[Decision Trees](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section6_5-Decision-Trees.ipynb)
 
-[Boosting](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_6-Boosting.ipynb)
+[Boosting](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section6_6-Boosting.ipynb)
 
-[Neural Networks](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section6_7-Neural-Networks.ipynb)
+[Neural Networks](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section6_7-Neural-Networks.ipynb)
 
 
 ### Section 7. High-performance Computing
 
-[numexpr and Cython](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section7_1-High-Performance-Python.ipynb)
+[numexpr and Cython](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section7_1-High-Performance-Python.ipynb)
 
 
-[Parallel Processing](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section7_2-Parallel-Processing.ipynb)
+[Parallel Processing](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section7_2-Parallel-Processing.ipynb)
 
 ### Section 8. Other Topics:
 
-Advanced Data Visualization [Part 1 (Plotly)](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section8_1a-Advanced-Data-Visualization (Plotly).ipynb), [Part 2 (Bokeh)](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section8_1b-Advanced-Data-Visualization (Bokeh).ipynb)
+Advanced Data Visualization [Part 1 (Plotly)](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section8_1a-Advanced-Data-Visualization (Plotly).ipynb), [Part 2 (Bokeh)](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section8_1b-Advanced-Data-Visualization (Bokeh).ipynb)
 
-[Database Programming](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios366/master/notebooks/Section8_2-Database-Programming.ipynb)
+[Database Programming](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section8_2-Database-Programming.ipynb)
 
 ---
 

@@ -7,7 +7,7 @@ title: Advanced Statistical Computing
 
 # Software
 
-Bios 366 is taught using Python and the "Scientific Stack", a set of core scientific computing packages written and maintained by various third parties.
+Bios 8366 is taught using Python and the "Scientific Stack", a set of core scientific computing packages written and maintained by various third parties.
 
 ## Python
 
@@ -63,7 +63,7 @@ Users of Fedora 17 and earlier should then upgrade IPython using pip:
 
 ## Git
 
-The use of version control systems is essential for effective scientific computing. In Bios 366, we [make extensive use of Git](http://fonnesbeck.github.io/Bios366/git.html), which is one of several widely-used versioning systems.
+The use of version control systems is essential for effective scientific computing. In Bios 8366, we [make extensive use of Git](http://fonnesbeck.github.io/Bios8366/git.html), which is one of several widely-used versioning systems.
 
 To install Git, you can either download an installer from [the Git website](http://git-scm.com), or if you are on a UNIX-based computer, install it via your system's package manager (recommended). On Mac OS X, you can easily install a variety of software packages using [Homebrew](http://mxcl.github.io/homebrew/ "Homebrew — MacPorts driving you to drink? Try Homebrew!"). To obtain Git, simply type:
 
@@ -85,4 +85,4 @@ For preparing assignments and final projects, students may select from a variety
 * [Multimarkdown](http://fletcherpenney.net/multimarkdown/ "MultiMarkdown") An enhanced version of Markdown.
 * [reStructuredText](http://docutils.sourceforge.net/rst.html "reStructuredText") An easy-to-read, what-you-see-is-what-you-get plaintext markup syntax and parser system
 
-***The use of traditional word processing software, such as Microsoft Word or OpenOffice is not permitted in Bios 366.***
+***The use of traditional word processing software, such as Microsoft Word or OpenOffice is not permitted in Bios 8366.***
