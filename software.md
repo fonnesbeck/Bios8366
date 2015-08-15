@@ -43,26 +43,6 @@ from the terminal. It, along with all its dependencies, will be installed from b
 
 Since OS X ships with Python pre-installed, it is often inconvenient to install another Python distribution. For users running the latest version of OS X, I build and maintain the [Scipy Superpack](http://fonnesbeck.github.io/ScipySuperpack/) which are recent builds of fundamental Python scientific computing packages for OS X. The installer is a simple shell script that will install recent 64-bit builds of Numpy,  Scipy, Matplotlib, IPython, Pandas, Statsmodels, Scikit-Learn and PyMC.
 
-### Ubuntu & Debian
-
-Users on Ubuntu or Debian flavors of Linux can quickly install the necessary packages from repositories.
-
-    sudo apt-get install python-numpy python-scipy python-matplotlib \
-    ipython ipython-notebook python-pandas python-sympy python-nose
-
-The versions in Ubuntu 12.10 and Debian 7.0 meet the current Scipy stack specification. Users might also want to add the [NeuroDebian](http://neuro.debian.net/) repository for extra Scipy packages.
-
-### Fedora
-
-On Fedora, most of the Python packages can be installed using the `yum` package utility:
-
-    sudo yum install numpy scipy python-matplotlib ipython python-pandas \
-    sympy python-nose
-
-Users of Fedora 17 and earlier should then upgrade IPython using pip:
-
-    sudo pip install --upgrade ipython
-
 ## Git
 
 The use of version control systems is essential for effective scientific computing. In Bios 8366, we [make extensive use of Git](http://fonnesbeck.github.io/Bios8366/git.html), which is one of several widely-used versioning systems.
