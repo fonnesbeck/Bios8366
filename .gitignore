@@ -39,3 +39,5 @@ archive
 *.aux
 *.idx
 *.log
+
+*Bios366_project_data*
