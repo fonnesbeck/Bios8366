@@ -2,3 +2,4 @@ admin/
 notebooks/
 resources/
 archive/
+.DS_Store

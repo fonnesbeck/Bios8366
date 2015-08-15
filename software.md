@@ -11,9 +11,7 @@ Bios 8366 is taught using Python and the "Scientific Stack", a set of core scien
 
 ## Python
 
-The first step is to install Python on your computer. I will be teaching this course based on **Python 2.7.6**. If you are running Mac OS X, Python is already included in the operating system that is shipped with the computer. I recommend that you upgrade to OS X 10.9 (Mavericks) if possible, so that you are running a relatively recent version of Python.
-
-If you are running Windows or Linux, you may not already have Python installed (though it is installed by default on many Linux distributions). If Python is not on your system, you can either download an installer from [Python.org](http://python.org) or install a third-party distribution (see below). I recommend the latter, since these distributions are enhanced, containing most or all of the packages required for the course.
+The first step is to install Python on your computer. I will be teaching this course based on **Python 3.4**. If Python 3 is not on your system, you can either download an installer from [Python.org](http://python.org) or install a third-party distribution (see below). I recommend the latter, since these distributions are enhanced, containing most or all of the packages required for the course.
 
 In addition to Python itself, we will be making use of several packages in the scientific stack. These include the following:
 
@@ -30,6 +28,10 @@ If your Python distribution does not include these packages, you can install the
 ### All-in-one Scientific Python
 
 Perhaps the easiest way to get a feature-complete version of Python on your system is to install the [Anaconda](http://continuum.io/downloads.html) distribution by Continuum Analytics. Anaconda is a completely free Python environment that includes includes almost 200 of the best Python packages for science and data analysis. Its simply a matter of downloading the installer (either graphical or command line), and running it on your system.
+
+Be sure to download the Python 3.4 installer, by following the **I want Python 3.4 link**
+
+![get Python 3](images/getpy3.png)
 
 Once Anaconda is installed, additional packages may be added to your installation via the `conda` utility. For example, to install SymPy one simply has to run:
 
