@@ -19,4 +19,4 @@ For those enrolled that have not taken Bios 6301, here are several resources to 
 
 Here is a great introductory video by Scott Chacon of GitHub.
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/ZDR433b0HJY&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ZDR433b0HJY&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZDR433b0HJY" frameborder="0" allowfullscreen></iframe>
