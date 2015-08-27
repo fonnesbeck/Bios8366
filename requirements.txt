@@ -1,0 +1,13 @@
+jupyter
+numpy
+scipy
+cython
+matplotlib
+pandas
+seaborn
+bokeh
+scikit-learn
+pymc
+sympy
+theano
+ggplot
