@@ -27,7 +27,7 @@ Course Introduction
 
 ### Section 2. Python's Scientific Stack
 
-[IPython](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_1-IPython.ipynb)
+[IPython and Jupyter](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section2_1-IPython_and_Jupyter.ipynb)
 
 [NumPy](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_2-NumPy.ipynb)
 
