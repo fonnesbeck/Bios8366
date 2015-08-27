@@ -7,6 +7,7 @@ pandas
 seaborn
 bokeh
 scikit-learn
+-e git+https://github.com/pymc-devs/pymc.git#egg=pymc
 sympy
 theano
 ggplot
