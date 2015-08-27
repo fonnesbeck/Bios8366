@@ -2,7 +2,7 @@
 
 ### Formerly Bios366
 
-![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/fonnesbeck/bios8366)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/fonnesbeck/bios8366)
 
 Advanced Statistical Computing at Vanderbilt University's Department of Biostatistics
 
