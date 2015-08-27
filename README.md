@@ -1,5 +1,7 @@
 # Bios8366
 
+[![Join the chat at https://gitter.im/fonnesbeck/Bios8366](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fonnesbeck/Bios8366?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Formerly Bios366
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/fonnesbeck/bios8366)
