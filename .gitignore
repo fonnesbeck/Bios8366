@@ -40,6 +40,13 @@ archive
 *.idx
 *.log
 
+# Exported files in notebooks directory
+notebooks/*pdf
+notebooks/*html
+
 *Bios366_project_data*
 _homework/
 _project/
+
+# OS X junk
+.DS_Store
