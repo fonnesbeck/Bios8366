@@ -1,0 +1,43 @@
+Date,Description,Totals,Conakry,Gueckedou,Macenta,Dabola,Kissidougou,Dinguiraye,Telimele,Boffa,Kouroussa,Dubreka,Siguiri,Pita,Nzerekore
+2014-08-04,New cases of suspects,5,5,0,0,0,0,0,0,0,0,0,0,0,0
+2014-08-04,New cases of probables,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014-08-04,New cases of confirmed,4,1,3,0,0,0,0,0,0,0,0,0,0,0
+2014-08-04,Total new cases registered so far,9,6,3,0,0,0,0,0,0,0,0,0,0,0
+2014-08-04,Total cases of suspects,11,9,2,0,0,0,0,0,0,0,0,0,0,0
+2014-08-04,Total cases of probables,133,8,95,11,3,4,1,3,5,2,0,0,1,0
+2014-08-04,Total cases of confirmed,351,78,188,28,1,2,0,23,18,2,0,6,1,4
+2014-08-04,Cumulative (confirmed + probable + suspects),495,95,285,39,4,6,1,26,23,4,0,6,2,4
+2014-08-04,New deaths registered today,2,0,2,0,0,0,0,0,0,0,0,0,0,0
+2014-08-04,New deaths registered today (confirmed),2,0,2,0,0,0,0,0,0,0,0,0,0,0
+2014-08-04,New deaths registered today (probables),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014-08-04,New deaths registered today (suspects),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014-08-04,Total deaths of suspects,2,2,0,0,0,0,0,0,0,0,0,0,0,0
+2014-08-04,Total deaths of probables,133,8,95,11,3,4,1,3,5,2,0,0,1,0
+2014-08-04,Total deaths of confirmed,228,32,152,18,1,1,0,7,11,1,0,3,1,1
+2014-08-04,Total deaths (confirmed + probables + suspects),363,42,247,29,4,5,1,10,16,3,0,3,2,1
+2014-08-04,Total PEC center today,31,21,8,0,0,0,0,0,0,0,0,2,0,0
+2014-08-04,Total PEC center today (confirmed),18,10,6,0,0,0,0,0,0,0,0,2,0,0
+2014-08-04,Total PEC center today (probables),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014-08-04,Total PEC center today (suspects),13,11,2,0,0,0,0,0,0,0,0,0,0,0
+2014-08-04,Total of deaths in confirmed cases in CTE,138,20,95,10,0,1,0,5,6,0,0,2,0,0
+2014-08-04,Total of cured in confirmed cases in CTE,89,34,30,8,0,1,0,9,7,0,0,0,0,0
+2014-08-04,Number of male confirmed cases,161,48,72,14,1,1,0,6,10,1,0,6,0,2
+2014-08-04,Number of female confirmed cases,190,30,116,14,0,1,0,17,8,1,0,0,1,2
+2014-08-04,Number of male probables cases,52,4,34,5,1,1,0,1,3,2,0,0,1,0
+2014-08-04,Number of female probables cases,81,4,61,6,2,3,1,2,2,0,0,0,0,0
+2014-08-04,Number of male suspects cases,7,5,0,0,0,0,0,0,0,0,0,2,0,0
+2014-08-04,Number of female suspects cases,6,4,2,0,0,0,0,0,0,0,0,0,0,0
+2014-08-04,Total number of male cases,220,57,106,19,2,2,0,7,13,3,0,8,1,2
+2014-08-04,Total number of female cases,277,38,179,20,2,4,1,19,10,1,0,0,1,2
+2014-08-04,Number of confirmed cases among health workers,21,16,3,1,0,0,0,1,0,0,0,2,0,0
+2014-08-04,Number of deaths of confirmed cases among health workers,12,10,1,1,0,0,0,0,0,0,0,0,0,0
+2014-08-04,Number of probables cases among health workers,8,1,4,2,0,0,0,1,0,0,0,0,0,0
+2014-08-04,Number of deaths of probables cases among health workers,8,1,4,2,0,0,0,1,0,0,0,0,0,0
+2014-08-04,Number of suspects cases among health workers,4,0,0,0,0,0,0,0,0,0,0,2,0,0
+2014-08-04,Number of death of confirmed cases among health workers,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014-08-04,Total contacts registered from start date,6309,1592,3049,430,69,158,0,259,397,53,118,141,41,69
+2014-08-04,Number of contacts to follow today,795,350,201,46,0,0,0,0,0,37,0,135,26,69
+2014-08-04,Number of contacts out of track,5513,1242,2848,384,69,159,0,259,397,16,118,6,15,0
+2014-08-04,Number of contacts followed yesterday,772,331,200,44,0,0,0,0,0,37,0,134,26,0
+2014-08-04,Number of patients tested,785,,,,,,,,,,,,,
+2014-08-04,Number of samples collected,1235,,,,,,,,,,,,,
