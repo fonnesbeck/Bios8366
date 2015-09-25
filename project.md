@@ -62,3 +62,7 @@ The best projects will:
 * include opinions and recommendations based on output
 
 The project reports should be pushed to GitHub by the project deadline (Dec. 12). Final projects should be submitted as one or more iPython notebooks.
+
+Finally, please add the following statement either to the end of the project or in the methods section when discussing the dataset:
+
+> The dataset(s) used for the analyses described were obtained from Vanderbilt University Medical Center’s Synthetic Derivative which is supported by institutional funding and by the Vanderbilt CTSA grant ULTR000445 from NCATS/NIH
