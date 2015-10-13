@@ -34,14 +34,14 @@ def metropolis_bioassay(n_iterations, initial_values, prop_var=1,
     accepted = [0]*n_params
 
     # Calculate joint posterior for initial values
-    current_log_prob = calc_posterior(*trace[0])
+    current_log_prob = bioassay_post(*trace[0])
 
     if tune_for is None:
         tune_for = n_iterations/2
 
     for i in range(n_iterations):
 
-        if not i%1000: print 'Iteration', i
+        if not i%1000: print('Iteration', i)
 
         # Grab current parameter values
         current_params = trace[i]
@@ -58,7 +58,7 @@ def metropolis_bioassay(n_iterations, initial_values, prop_var=1,
             p[j] = theta
 
             # Calculate log posterior with proposed value
-            proposed_log_prob = calc_posterior(*p)
+            proposed_log_prob = bioassay_post(*p)
 
             # Log-acceptance rate
             alpha = proposed_log_prob - current_log_prob
@@ -97,7 +97,7 @@ for param, samples in zip(['intercept', 'slope'], tr.T):
     fig, axes = plt.subplots(1, 2)
     axes[0].plot(samples)
     axes[0].set_ylabel(param)
-    axes[1].hist(samples[len(samples)/2:])
+    axes[1].hist(samples[len(samples)//2:])
 
 a, b = tr.T
 print('LD50 mean is {}'.format(ld50(a,b).mean()))
