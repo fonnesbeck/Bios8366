@@ -52,6 +52,7 @@ test.*
 *.svg
 baseball_pickle
 mb.csv
+notebooks/MCMC*
 
 # OS X junk
 .DS_Store
