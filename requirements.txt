@@ -11,3 +11,4 @@ scikit-learn
 sympy
 theano
 ggplot
+pymc3
