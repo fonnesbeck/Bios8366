@@ -50,9 +50,12 @@ _project/
 test.*
 *.png
 *.svg
+*.pyx
 baseball_pickle
 mb.csv
 notebooks/MCMC*
 
 # OS X junk
 .DS_Store
+
+.domino*
