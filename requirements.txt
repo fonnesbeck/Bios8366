@@ -11,4 +11,4 @@ scikit-learn
 sympy
 theano
 ggplot
-pymc3
+-e git+https://github.com/pymc-devs/pymc3.git#egg=pymc3

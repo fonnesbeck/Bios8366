@@ -1,4 +1,4 @@
-from sklearn import grid_search
+from sklearn.model_selection import GridSearchCV
 from sklearn.utils import shuffle
 from sklearn.ensemble import RandomForestRegressor
 import numpy as np
