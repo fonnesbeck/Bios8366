@@ -9,7 +9,9 @@ title: Advanced Statistical Computing
 
 Course covers numerical optimization, Markov Chain Monte Carlo (MCMC), estimation-maximization (EM) algorithms, Gaussian processes, Hamiltonian Monte Carlo, statistical/machine learning, data augmentation algorithms, and techniques for dealing with missing data. Students will also be introduced to the Python programming language, and its use for statistical computing.
 
-**Prerequisites**: Bios 6301 or permission of instructor. Students must be familiar with the [Git](http://git-scm.com/) version control system.
+### Prerequisites
+
+Bios 6301, an undergraduate or graduate probability and inference course, or permission of instructor. Students must be familiar with the [Git](http://git-scm.com/) version control system and be prepared to program in Python.
 
 
 # Instructor
