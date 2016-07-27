@@ -39,7 +39,7 @@ In addition to Python itself, we will be making use of several packages in the s
 * [PyMC3](https://github.com/pymc-devs/pymc3 "pymc-devs/pymc3 · GitHub")
 * [scikit-learn](http://scikit-learn.org/ "scikit-learn: machine learning in Python &mdash; scikit-learn 0.13.1 documentation")
 
-We will install everything you require for BIOS8366 in one operation, described in the next section.
+We will install everything you require for Bios 8366 in one operation, described in the next section.
 
 ## Getting this repository
 
