@@ -7,7 +7,7 @@ title: Advanced Statistical Computing
 
 # Lectures
 
-**Time and Place**: Lectures are held in the Biostatistics Large Conference Room (Room 11105), [2525 West End Avenue](http://bit.ly/17y9ZxH), except on the following dates: 9/15, 10/13, 10/20, 11/17 and 12/8. These classes will be held in the 6th Floor Large Conference Room (Room 609).
+**Time and Place**: Lectures are held in the Biostatistics Large Conference Room (Room 11105), [2525 West End Avenue](http://bit.ly/17y9ZxH).
 
 **Office hours**: By appointment
 
@@ -17,92 +17,85 @@ The following materials will be divided into 25 lectures.
 
 ---
 
-Course Introduction
-
-### Section 1. The Python Programming Language
-
-[Introduction to Python](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section1_1-Introduction-to-Python.ipynb)
-
-[Programming with Python](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section1_2-Programming-with-Python.ipynb)
-
-### Section 2. Python's Scientific Stack
-
-[IPython and Jupyter](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section2_1-IPython_and_Jupyter.ipynb)
-
-[NumPy](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_2-NumPy.ipynb)
-
-[SciPy](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_3-SciPy.ipynb)
-
-[Matplotlib](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_4-Matplotlib.ipynb)
-
-[Introduction to Pandas](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_5-Introduction-to-Pandas.ipynb)
-
-[Data Wrangling with Pandas](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_6-Data-Wrangling-with-Pandas.ipynb)
-
-[Plotting with Pandas](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_7-Plotting-with-Pandas.ipynb)
-
-### Section 3. Optimization
-
-[Review of Univariate and Multivariate Optimization](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section3_1-Univariate-and-Multivariate-Optimization.ipynb)
-
-[Combinatorial Optimization](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section3_2-Combinatorial-Optimization.ipynb)
-
-[Expectation Maximization](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section3_3-Expectation-Maximization.ipynb)
-
-
-### Section 4. Bayesian Modeling and MCMC
-
-[Computational Methods in Bayesian Analysis](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section4_1-Bayesian-Computation.ipynb)
-
-[Markov chain Monte Carlo](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section4_2-MCMC.ipynb)
-
-[Introduction to PyMC](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section4_3-Introduction-to-PyMC.ipynb)
-
-[Model Building with PyMC](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section4_4-Model-Building-with-PyMC.ipynb)
-
-[Model Checking](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section4_5-Model-Checking.ipynb)
-
-[Hamiltonian Monte Carlo](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section4_6-Hamiltonian-Monte-Carlo.ipynb)
-
-[Approximate Bayesian Computing](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section4_7-Approximate-Bayesian-Computing.ipynb)
-
-
-### Section 5. Non-parametric Bayesian Computing
-
-[Gaussian Processes](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section5_1-Gaussian-Processes.ipynb)
-
-[Dirichlet Processes](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section5_2-Dirichlet-Processes.ipynb)
-
-
-### Section 6. Statistical Learning
-
-[Introduction to `scikit-learn`](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section6_1-Scikit-Learn.ipynb)
-
-[Clustering](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section6_2-Clustering.ipynb)
-
-[Model Selection and Validation](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section6_3-Model-Selection-and-Validation.ipynb)
-
-[Support Vector Machines](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section6_4-Support-Vector-Machines.ipynb)
-
-[Decision Trees](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section6_5-Decision-Trees.ipynb)
-
-[Boosting](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section6_6-Boosting.ipynb)
-
-[Neural Networks](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section6_7-Neural-Networks.ipynb)
-
-
-### Section 7. High-performance Computing
-
-[numexpr and Cython](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section7_1-High-Performance-Python.ipynb)
-
-
-[Parallel Processing](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section7_2-Parallel-Processing.ipynb)
-
-### Section 8. Other Topics:
-
-Advanced Data Visualization [Part 1 (Plotly)](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section8_1a-Advanced-Data-Visualization (Plotly).ipynb), [Part 2 (Bokeh)](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section8_1b-Advanced-Data-Visualization (Bokeh).ipynb)
-
-[Database Programming](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section8_2-Database-Programming.ipynb)
+1. Python programming
+    - lecture
+1. Data cleaning and manipulation with Pandas
+    - lecture
+    - paper
+1. Univariate and multivariate optimization
+    - lecture
+    - paper
+1. Combinatorial optimization
+    - lecture
+    - paper
+1. Performance Python
+    - lecture
+    - paper
+1. Parallel Python
+    - lecture 
+    - paper
+1. Data visualization
+    - lecture
+    - paper
+1. Expectation maximization
+    - lecture
+    - paper
+1. Bayesian computation
+    - lecture
+    - paper
+1. Markov chain Monte Carlo (Part 1)
+    - lecture
+    - paper
+1. Markov chain Monte Carlo (Part 2)
+    - lecture
+    - paper
+1. Theano
+    - lecture
+    - paper
+1. Hamiltonian Monte Carlo
+    - lecture
+    - paper
+1. PyMC
+    - lecture
+    - paper
+1. Model checking
+    - lecture
+    - paper
+1. Variational inference
+    - lecture
+    - paper
+1. Approximate Bayesian Computing
+    - lecture
+    - paper
+1. Gaussian processes
+    - lecture
+    - paper
+1. Dirichlet processes
+    - lecture
+    - paper
+1. Latent Dirichlet Allocation
+    - lecture
+    - paper
+1. Clustering
+    - lecture
+    - paper
+1. Model selection and validation
+    - lecture
+    - paper
+1. Support vector machines
+    - lecture
+    - paper
+1. Decision trees
+    - lecture
+    - paper
+1. Boosting and Bagging
+    - lecture
+    - paper
+1. Neural networks
+    - lecture
+    - paper
+1. TensorFlow
+    - lecture
 
 ---
 
