@@ -17,84 +17,84 @@ The following materials will be divided into 25 lectures.
 
 ---
 
-1. Python programming
+1. **Python programming**
     - lecture
-1. Data cleaning and manipulation with Pandas
-    - lecture
-    - paper
-1. Univariate and multivariate optimization
+1. **Data cleaning and manipulation with Pandas**
     - lecture
     - paper
-1. Combinatorial optimization
+1. **Univariate and multivariate optimization**
     - lecture
     - paper
-1. Performance Python
+1. **Combinatorial optimization**
     - lecture
     - paper
-1. Parallel Python
+1. **Performance Python**
+    - lecture
+    - paper
+1. **Parallel Python**
     - lecture 
     - paper
-1. Data visualization
+1. **Data visualization**
     - lecture
     - paper
-1. Expectation maximization
+1. **Expectation maximization**
     - lecture
     - paper
-1. Bayesian computation
+1. **Bayesian computation**
     - lecture
     - paper
-1. Markov chain Monte Carlo (Part 1)
+1. **Markov chain Monte Carlo (Part 1)**
     - lecture
     - paper
-1. Markov chain Monte Carlo (Part 2)
+1. **Markov chain Monte Carlo (Part 2)**
     - lecture
     - paper
-1. Theano
+1. **Theano**
     - lecture
     - paper
-1. Hamiltonian Monte Carlo
+1. **Hamiltonian Monte Carlo**
     - lecture
     - paper
-1. PyMC
+1. **PyMC**
     - lecture
     - paper
-1. Model checking
+1. **Model checking**
     - lecture
     - paper
-1. Variational inference
+1. **Variational inference**
     - lecture
     - paper
-1. Approximate Bayesian Computing
+1. **Approximate Bayesian Computing**
     - lecture
     - paper
-1. Gaussian processes
+1. **Gaussian processes**
     - lecture
     - paper
-1. Dirichlet processes
+1. **Dirichlet processes**
     - lecture
     - paper
-1. Latent Dirichlet Allocation
+1. **Latent Dirichlet Allocation**
     - lecture
     - paper
-1. Clustering
+1. **Clustering**
     - lecture
     - paper
-1. Model selection and validation
+1. **Model selection and validation**
     - lecture
     - paper
-1. Support vector machines
+1. **Support vector machines**
     - lecture
     - paper
-1. Decision trees
+1. **Decision trees**
     - lecture
     - paper
-1. Boosting and Bagging
+1. **Boosting and Bagging**
     - lecture
     - paper
-1. Neural networks
+1. **Neural networks**
     - lecture
     - paper
-1. TensorFlow
+1. **TensorFlow**
     - lecture
 
 ---
