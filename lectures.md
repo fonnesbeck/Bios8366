@@ -7,7 +7,7 @@ title: Advanced Statistical Computing
 
 # Lectures
 
-**Time and Place**: Lectures are held in the Biostatistics Large Conference Room (Room 11105), [2525 West End Avenue](http://bit.ly/17y9ZxH).
+**Time and Place**: 2016 lectures are held on Tuesdays and Thursdays at 9:00-10:30 am in the Biostatistics Small Classroom (Room 11139), [2525 West End Avenue](http://bit.ly/17y9ZxH).
 
 **Office hours**: By appointment
 
