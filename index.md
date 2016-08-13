@@ -20,6 +20,10 @@ Bios 6301, an undergraduate or graduate probability and inference course, or per
 
 11137, 11th floor, 2525 West End Avenue
 
+# Teaching Assistant
+
+[David Schlueter](david.j.schlueter@Vanderbilt.Edu), PhD student.
+
 # Slack
 
 All class communication will take place using [Slack](https://slack.com), a messaging system that replaces email. Students will be invited to the [Bios 8366 Slack channel](https://bios8366.slack.com) prior to the first week of class.
