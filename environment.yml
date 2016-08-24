@@ -1,0 +1,24 @@
+name: bios8366
+dependencies:
+- python=3.5
+- bokeh
+- dask
+- ipython
+- jupyter
+- notebook
+- ipywidgets
+- jupyter_client
+- jupyter_core
+- numpy>=1.11.0
+- pandas>=0.18.1
+- patsy
+- pip
+- readline
+- scikit-learn>=0.17.1
+- scipy>=0.17.1
+- seaborn>=0.7.0
+- sympy
+- xz=5.0.5
+- xlrd
+- pip:
+  - git+https://github.com/pymc-devs/pymc3.git#egg=pymc3
