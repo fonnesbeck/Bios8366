@@ -6,6 +6,7 @@ dependencies:
 - ipython
 - jupyter
 - notebook
+- ipyparallel
 - ipywidgets
 - jupyter_client
 - jupyter_core
