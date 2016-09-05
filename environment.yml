@@ -14,6 +14,7 @@ dependencies:
 - numpy>=1.11.0
 - pandas>=0.18.1
 - patsy
+- pillow
 - pip
 - scikit-learn>=0.17.1
 - scipy>=0.17.1
