@@ -3,6 +3,7 @@ dependencies:
 - python=3.5
 - basemap
 - bokeh
+- cython
 - dask
 - ipython
 - jupyter
@@ -11,6 +12,8 @@ dependencies:
 - ipywidgets
 - jupyter_client
 - jupyter_core
+- line_profiler
+- numexpr
 - numpy>=1.11.0
 - pandas>=0.18.1
 - patsy
@@ -19,6 +22,7 @@ dependencies:
 - scikit-learn>=0.17.1
 - scipy>=0.17.1
 - seaborn>=0.7.0
+- snakeviz
 - sympy
 - xlrd
 - pip:
