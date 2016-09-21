@@ -25,14 +25,13 @@ The following materials will be divided into 25 lectures.
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section1_1-Univariate-and-Multivariate-Optimization.ipynb)
 1. **Combinatorial optimization**
     - date: 09/01/16
-    - lecture
+    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section1_2-Combinatorial-Optimization.ipynb)
 1. **Data cleaning and manipulation with Pandas (Part 1)**
     - date: 09/06/16
-    - lecture
-    - paper
+    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section2_1-Introduction-to-Pandas.ipynb)
 1. **Data cleaning and manipulation with Pandas (Part 2)**
     - date: 09/08/16
-    - lecture
+    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Data-Wrangling-with-Pandas.ipynb)
     - paper
 1. **Performance Python**
     - date: 09/13/16
@@ -112,6 +111,9 @@ The following materials will be divided into 25 lectures.
     - date: 11/17/16
     - lecture
     - paper
+    
+    
+    
 1. **Latent Dirichlet Allocation**
     - date: 11/29/16
     - lecture
