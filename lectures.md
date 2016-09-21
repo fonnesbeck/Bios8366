@@ -32,7 +32,6 @@ The following materials will be divided into 25 lectures.
 1. **Data cleaning and manipulation with Pandas (Part 2)**
     - date: 09/08/16
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Data-Wrangling-with-Pandas.ipynb)
-    - paper
 1. **Performance Python**
     - date: 09/13/16
     - lecture
