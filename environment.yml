@@ -14,6 +14,7 @@ dependencies:
 - jupyter_core
 - line_profiler
 - numexpr
+- numba
 - numpy>=1.11.0
 - pandas>=0.18.1
 - patsy
