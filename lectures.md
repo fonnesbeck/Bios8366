@@ -27,11 +27,9 @@ The following materials will be divided into 25 lectures.
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section2_1-Introduction-to-Pandas.ipynb)
 1. **Data cleaning and manipulation with Pandas (Part 2)**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Data-Wrangling-with-Pandas.ipynb)
-1. **Low-level plotting with Matplotlib**
-    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Low-Level-Plotting-with-Matplotlib.ipynb)
+1. **Plotting and Visualization**
+    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Plotting-and-Visualization.ipynb)
     - [paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
-1. **High-level plotting with Pandas**
-    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section2_4-High-Level-Plotting-with-Pandas.ipynb)
 1. **Expectation maximization**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section3_1-Expectation-Maximization.ipynb)
     - paper
