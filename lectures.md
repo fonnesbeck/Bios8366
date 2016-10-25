@@ -32,28 +32,19 @@ The following materials will be divided into 25 lectures.
     - [paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
 1. **Expectation maximization**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section3_1-Expectation-Maximization.ipynb)
-    - paper
 1. **Performance Python**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section3_2-High-Performance-Python.ipynb)
-    - paper
 1. **Bayesian computation**
-    - lecture
-    - paper
-1. **Markov chain Monte Carlo (Part 1)**
-    - lecture
-    - paper
-1. **Markov chain Monte Carlo (Part 2)**
-    - lecture
-    - paper
-1. **Theano**
-    - lecture
-    - paper
-1. **Hamiltonian Monte Carlo**
-    - lecture
-    - paper
-1. **PyMC**
-    - lecture
-    - paper
+    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_1-Bayesian-Computation.ipynb)
+1. **Markov chain Monte Carlo)**
+    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_2-MCMC.ipynb)
+    - [paper](http://www.mcmchandbook.net/HandbookChapter1.pdf)
+1. **Theano and Hamiltonian Monte Carlo**
+    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_3-Hamiltonian-Monte-Carlo.ipynb)
+    - [paper](http://www.mcmchandbook.net/HandbookChapter5.pdf)
+1. **PyMC3**
+    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_4-Introduction-to-PyMC3.ipynb)
+    - [paper](https://arxiv.org/abs/1111.4246)
 1. **Model checking**
     - lecture
     - paper
