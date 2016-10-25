@@ -36,7 +36,7 @@ The following materials will be divided into 25 lectures.
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section3_2-High-Performance-Python.ipynb)
 1. **Bayesian computation**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_1-Bayesian-Computation.ipynb)
-1. **Markov chain Monte Carlo)**
+1. **Markov chain Monte Carlo**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_2-MCMC.ipynb)
     - [paper](http://www.mcmchandbook.net/HandbookChapter1.pdf)
 1. **Theano and Hamiltonian Monte Carlo**
