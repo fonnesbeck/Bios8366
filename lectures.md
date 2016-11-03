@@ -45,15 +45,13 @@ The following materials will be divided into 25 lectures.
 1. **PyMC3**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_4-Introduction-to-PyMC3.ipynb)
     - [paper](https://arxiv.org/abs/1111.4246)
+1. **Model building with PyMC**
+    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_5-Model-Building-with-PyMC3.ipynb)
 1. **Model checking**
-    - lecture
-    - paper
-1. **Variational inference**
-    - lecture
-    - paper
-1. **Approximate Bayesian Computing**
-    - lecture
-    - paper
+    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_6-Model-Checking.ipynb)
+1. **Multilevel modeling**
+    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_7-Multilevel-Modeling.ipynb)
+    - [paper](http://www.stat.columbia.edu/~gelman/research/published/multi2.pdf)
 1. **Clustering**
     - lecture
     - paper
