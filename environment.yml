@@ -20,11 +20,14 @@ dependencies:
 - patsy
 - pillow
 - pip
+- pprofile
 - scikit-learn>=0.17.1
 - scipy>=0.17.1
 - seaborn>=0.7.0
 - snakeviz
 - sympy
+- theano
 - xlrd
 - pip:
   - git+https://github.com/pymc-devs/pymc3.git#egg=pymc3
+  - GPy
