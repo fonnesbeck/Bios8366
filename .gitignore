@@ -54,6 +54,7 @@ test.*
 baseball_pickle
 mb.csv
 notebooks/MCMC*
+notebooks/*sqlite
 nbmerge.py
 
 # OS X junk
