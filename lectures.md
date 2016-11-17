@@ -52,6 +52,12 @@ The following materials will be divided into 25 lectures.
 1. **Multilevel modeling**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_7-Multilevel-Modeling.ipynb)
     - [paper](http://www.stat.columbia.edu/~gelman/research/published/multi2.pdf)
+1. **Gaussian processes**
+    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section5_1-Gaussian-Processes.ipynb)
+    - [paper](http://mlg.eng.cam.ac.uk/pub/pdf/Gha12.pdf)
+1. **Dirichlet processes**
+    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section5_2-Dirichlet-Processes.ipynb)
+    - [paper](https://people.eecs.berkeley.edu/~jordan/papers/hierarchical-dp.pdf)
 1. **Clustering**
     - lecture
     - paper
@@ -65,12 +71,6 @@ The following materials will be divided into 25 lectures.
     - lecture
     - paper
 1. **Boosting and Bagging**
-    - lecture
-    - paper
-1. **Gaussian processes**
-    - lecture
-    - paper
-1. **Dirichlet processes**
     - lecture
     - paper
 1. **Latent Dirichlet Allocation**
