@@ -19,70 +19,71 @@ The following materials will be divided into 25 lectures.
 
 1. **Jupyter and IPython**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section0-IPython_and_Jupyter.ipynb)
-1. **Univariate and multivariate optimization**
+2. **Univariate and multivariate optimization**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section1_1-Univariate-and-Multivariate-Optimization.ipynb)
-1. **Combinatorial optimization**
+3. **Combinatorial optimization**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section1_2-Combinatorial-Optimization.ipynb)
-1. **Data cleaning and manipulation with Pandas (Part 1)**
+4. **Data cleaning and manipulation with Pandas (Part 1)**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section2_1-Introduction-to-Pandas.ipynb)
-1. **Data cleaning and manipulation with Pandas (Part 2)**
+5. **Data cleaning and manipulation with Pandas (Part 2)**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Data-Wrangling-with-Pandas.ipynb)
-1. **Plotting and Visualization**
+6. **Plotting and Visualization**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Plotting-and-Visualization.ipynb)
     - [paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
-1. **Expectation maximization**
+7. **Expectation maximization**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section3_1-Expectation-Maximization.ipynb)
-1. **Performance Python**
+8. **Performance Python**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section3_2-High-Performance-Python.ipynb)
-1. **Bayesian computation**
+9. **Bayesian computation**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_1-Bayesian-Computation.ipynb)
-1. **Markov chain Monte Carlo**
+10. **Markov chain Monte Carlo**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_2-MCMC.ipynb)
     - [paper](http://www.mcmchandbook.net/HandbookChapter1.pdf)
-1. **Theano and Hamiltonian Monte Carlo**
+11. **Theano and Hamiltonian Monte Carlo**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_3-Hamiltonian-Monte-Carlo.ipynb)
     - [paper](http://www.mcmchandbook.net/HandbookChapter5.pdf)
-1. **PyMC3**
+12. **PyMC3**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_4-Introduction-to-PyMC3.ipynb)
     - [paper](https://arxiv.org/abs/1111.4246)
-1. **Model building with PyMC**
+13. **Model building with PyMC**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_5-Model-Building-with-PyMC3.ipynb)
-1. **Model checking**
+14. **Model checking**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_6-Model-Checking.ipynb)
-1. **Multilevel modeling**
+15. **Multilevel modeling**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_7-Multilevel-Modeling.ipynb)
     - [paper](http://www.stat.columbia.edu/~gelman/research/published/multi2.pdf)
-1. **Gaussian processes**
+16. **Gaussian processes**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section5_1-Gaussian-Processes.ipynb)
     - [paper](http://mlg.eng.cam.ac.uk/pub/pdf/Gha12.pdf)
-1. **Dirichlet processes**
+17. **Dirichlet processes**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section5_2-Dirichlet-Processes.ipynb)
     - [paper](https://people.eecs.berkeley.edu/~jordan/papers/hierarchical-dp.pdf)
-1. **Clustering**
+18. **Scikit-Learn**
+    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section6_1-Scikit-Learn.ipynb)
+19. **Clustering**
+    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section6_2-Clustering.ipynb)
+    - [paper](http://arxiv.org/abs/1111.0352)
+20. **Model selection and validation**
+    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section6_3-Model-Selection-and-Validation.ipynb)
+21. **Support vector machines**
+    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section6_4-Support-Vector-Machines.ipynb)
+    - [paper](http://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-14-137 "Modern modelling techniques are data hungry: a simulation study for predicting dichotomous endpoints | BMC Medical Research Methodology | Full Text")
+22. **Decision trees**
     - lecture
     - paper
-1. **Model selection and validation**
+23. **Boosting and Bagging**
     - lecture
     - paper
-1. **Support vector machines**
+24. **Latent Dirichlet Allocation**
     - lecture
     - paper
-1. **Decision trees**
-    - lecture
-    - paper
-1. **Boosting and Bagging**
-    - lecture
-    - paper
-1. **Latent Dirichlet Allocation**
-    - lecture
-    - paper
-1. **Parallel Python**
+25. **Parallel Python**
     - lecture 
     - paper
-1. **Neural networks**
+26. **Neural networks**
     - lecture
     - paper
-1. **TensorFlow**
+27. **TensorFlow**
     - lecture
 
 ---
