@@ -67,7 +67,7 @@ The following materials will be divided into 25 lectures.
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section6_3-Model-Selection-and-Validation.ipynb)
 21. **Support vector machines**
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section6_4-Support-Vector-Machines.ipynb)
-    - [paper](http://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-14-137 "Modern modelling techniques are data hungry: a simulation study for predicting dichotomous endpoints | BMC Medical Research Methodology | Full Text")
+    - [paper](http://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-14-137)
 22. **Decision trees**
     - lecture
     - paper
