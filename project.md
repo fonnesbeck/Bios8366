@@ -61,7 +61,7 @@ The best projects will:
 * report performance characteristics of models
 * include opinions and recommendations based on output
 
-The project reports should be pushed to GitHub by the project deadline (Dec. 12). Final projects should be submitted as one or more iPython notebooks.
+The project reports should be pushed to GitHub by the project deadline. Final projects should be submitted as one or more iPython notebooks.
 
 Finally, please add the following statement either to the end of the project or in the methods section when discussing the dataset:
 
