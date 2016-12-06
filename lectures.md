@@ -69,22 +69,14 @@ The following materials will be divided into 25 lectures.
     - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section6_4-Support-Vector-Machines.ipynb)
     - [paper](http://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-14-137)
 22. **Decision trees**
-    - lecture
-    - paper
+    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section6_5-Decision-Trees.ipynb)
+    - [paper](http://www.jmlr.org/papers/volume7/meinshausen06a/meinshausen06a.pdf "")
 23. **Boosting and Bagging**
-    - lecture
+    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section6_6-Boosting.ipynb)
     - paper
-24. **Latent Dirichlet Allocation**
-    - lecture
+24. **Parallel Python**
+    - [lecture](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section7_1-Parallel-Processing.ipynb) 
     - paper
-25. **Parallel Python**
-    - lecture 
-    - paper
-26. **Neural networks**
-    - lecture
-    - paper
-27. **TensorFlow**
-    - lecture
 
 ---
 
