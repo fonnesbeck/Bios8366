@@ -20,7 +20,6 @@ dependencies:
 - patsy
 - pillow
 - pip
-- pprofile
 - scikit-learn>=0.17.1
 - scipy>=0.17.1
 - seaborn>=0.7.0
