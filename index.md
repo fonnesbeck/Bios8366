@@ -11,7 +11,7 @@ Course covers numerical optimization, Markov Chain Monte Carlo (MCMC), estimatio
 
 ### Prerequisites
 
-Bios 6301, an undergraduate or graduate probability and inference course, or permission of instructor. Students must be familiar with the [Git](http://git-scm.com/) version control system and be prepared to program in Python.
+Bios 6341 (Fundamentals of Probability) Bios 6342 (Contemporary Statistical Inference), or permission of instructor. Students must be familiar with the [Git](http://git-scm.com/) version control system and be prepared to program in Python.
 
 
 # Instructor
