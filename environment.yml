@@ -1,6 +1,7 @@
 name: bios8366
 dependencies:
 - python=3.5
+- autograd
 - basemap
 - bokeh
 - cython
