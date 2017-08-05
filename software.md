@@ -23,9 +23,9 @@ In addition to installing Git locally, we will be using [GitHub](https://github.
 
 ## Python
 
-The first step is to install Python on your computer. I will be teaching this course based on **Python 3.5**. Perhaps the easiest way to get a feature-complete version of Python on your system is to install the [Anaconda](http://continuum.io/downloads.html) distribution by Continuum Analytics. Anaconda is a completely free Python environment that includes includes almost 200 of the best Python packages for science and data analysis. Its simply a matter of downloading the installer (either graphical or command line), and running it on your system.
+The first step is to install Python on your computer. I will be teaching this course based on **Python 3.6**. Perhaps the easiest way to get a feature-complete version of Python on your system is to install the [Anaconda](http://continuum.io/downloads.html) distribution by Continuum Analytics. Anaconda is a completely free Python environment that includes includes almost 200 of the best Python packages for science and data analysis. Its simply a matter of downloading the installer (either graphical or command line), and running it on your system.
 
-Be sure to download the Python 3.5 installer, by following the **Python 3.5 link**
+Be sure to download the Python 3.6 installer, by following the **Python 3.6 link**
 
 ![get Python 3](images/getpy3.png)
 
