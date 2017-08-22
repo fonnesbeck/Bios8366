@@ -22,7 +22,7 @@ Bios 6341 (Fundamentals of Probability), Bios 6342 (Contemporary Statistical Inf
 
 # Teaching Assistant
 
-TBA
+[David Schlueter](david.j.schlueter@vanderbilt.edu), PhD Candidate
 
 # Slack
 
