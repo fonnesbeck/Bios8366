@@ -1,6 +1,6 @@
 name: bios8366
 dependencies:
-- python=3.5
+- python=3.6
 - autograd
 - basemap
 - bokeh
@@ -16,18 +16,16 @@ dependencies:
 - line_profiler
 - numexpr
 - numba
-- numpy>=1.11.0
-- pandas>=0.18.1
+- numpy
+- pandas
 - patsy
 - pillow
 - pip
-- scikit-learn>=0.17.1
-- scipy>=0.17.1
-- seaborn>=0.7.0
+- scikit-learn
+- scipy
+- seaborn
 - snakeviz
 - sympy
 - theano
 - xlrd
-- pip:
-  - git+https://github.com/pymc-devs/pymc3.git#egg=pymc3
-  - GPy
+- pymc3
