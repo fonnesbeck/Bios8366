@@ -50,7 +50,6 @@ _project/
 test.*
 *.png
 *.svg
-*.pyx
 baseball_pickle
 mb.csv
 notebooks/MCMC*
