@@ -43,6 +43,7 @@ archive
 # Exported files in notebooks directory
 notebooks/*pdf
 notebooks/*html
+notebooks/*pyx
 
 *Bios366_project_data*
 _homework/
