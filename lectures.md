@@ -34,7 +34,9 @@ The following links will display static Jupyter notebooks of each lecture:
 1. [Theano and Hamiltonian Monte Carlo](https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/rendered_Section4_4-Hamiltonian-Monte-Carlo.ipynb)
 1. [Model building with PyMC3](https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/rendered_Section4_5-Model-Building-with-PyMC3.ipynb)
 1. [Model checking](https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/rendered_Section4_6-Model-Checking.ipynb)
-1. [Multilevel modeling](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_7-Multilevel-Modeling.ipynb)
+1. [Variational inference](https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/rendered_Section4_7-Introduction-to-Variational-Bayesian-Methods.ipynb)
+1. [Multilevel modeling](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_8-Multilevel-Modeling.ipynb)
+1. [Model compariaon](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section4_8-Multilevel-Modeling.ipynb)
 1. [Gaussian processes](https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/rendered_Section5_1-Gaussian-Processes.ipynb)
 1. [Dirichlet processes](https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/rendered_Section5_2-Dirichlet-Processes.ipynb)
 1. [Scikit-Learn](https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/rendered_Section6_1-Scikit-Learn.ipynb)
@@ -43,6 +45,7 @@ The following links will display static Jupyter notebooks of each lecture:
 1. [Support vector machines](https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/rendered_Section6_4-Support-Vector-Machines.ipynb)
 1. [Decision trees](https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/rendered_Section6_5-Decision-Trees.ipynb)
 1. [Boosting](https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/rendered_Section6_6-Boosting.ipynb)
+1. [Neural Networks](https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/rendered_Section6_7-Neural-Networks.ipynb)
 
 ---
 
