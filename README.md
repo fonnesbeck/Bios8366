@@ -1,5 +1,7 @@
 # Bios8366
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fonnesbeck/bios8366/master)
+
 Advanced Statistical Computing at Vanderbilt University's Department of Biostatistics
 
 Course covers numerical optimization, statistical machine learning, Markov Chain Monte Carlo (MCMC), variational inference (VI) algorithms, data augmentation algorithms with applications for model fitting and techniques for dealing with missing data.
