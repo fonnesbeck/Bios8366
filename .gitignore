@@ -63,5 +63,7 @@ nbmerge.py
 .domino*
 example_code/
 
+project_data/
+
 Grades*
 students.csv
