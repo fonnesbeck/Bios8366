@@ -13,6 +13,7 @@ dependencies:
 - dask
 - ipython
 - jupyter
+- keras
 - notebook
 - ipyparallel
 - ipywidgets
@@ -33,5 +34,6 @@ dependencies:
 - snakeviz
 - sympy
 - theano
+- xgboost
 - xlrd
 - pymc3
