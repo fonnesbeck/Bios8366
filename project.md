@@ -9,7 +9,7 @@ title: Advanced Statistical Computing
 
 Bios 8366 students are introduced to a range of modern methods for optimization, machine learning, and probabilistic modeling. In addition to the assignments and in-class examples, it is beneficial for practitioners to gain experience using these techniques in a more realistic setting, using data that are collected for use in real-world biostatistical applications. Hence, 50% of the final grade in Bios 8366 will be determined by students' performance in a course project.
 
-Students will allocate themselves to groups of 2 or 3. Each group will be given access to a Box.com link containing the project data. Completed projects should be pushed to the repository (**without the data**) no later than noon on Friday, Dec. 16, 2015. All students in a group will receive the same project grade.
+Students will allocate themselves to groups of 2 or 3. Each group will be given access to a Box.com link containing the project data. Completed projects should be pushed to the repository (**without the data**) no later than noon on Friday, Dec. 15, 2017. All students in a group will receive the same project grade.
 
 ### Prediction of readmission from Vanderbilt Hospitalization Data
 
