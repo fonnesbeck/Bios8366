@@ -21,7 +21,7 @@ The following materials will be divided into 25 lectures.
 
 The following links will display static Jupyter notebooks of each lecture:
 
-1. [Jupyter and IPython](https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section0-IPython_and_Jupyter.ipynb)
+1. [Jupyter and IPython](https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section0_1-IPython_and_Jupyter.ipynb)
 1. [Plotting and Visualization](https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section0_2-Plotting-and-Visualization.ipynb)
 1. [Univariate and multivariate optimization](https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section1_1-Univariate-and-Multivariate-Optimization.ipynb)
 1. [Combinatorial optimization](https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section1_2-Combinatorial-Optimization.ipynb)
