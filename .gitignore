@@ -45,13 +45,12 @@ notebooks/*pdf
 notebooks/*html
 notebooks/*pyx
 
-*Bios366_project_data*
 _homework/
 _project/
 test.*
 *.png
 *.svg
-baseball_pickle
+*pickle
 mb.csv
 notebooks/MCMC*
 notebooks/*sqlite
@@ -63,7 +62,6 @@ nbmerge.py
 .domino*
 example_code/
 
-project_data/
-
+# Private stuff
 Grades*
 students.csv
