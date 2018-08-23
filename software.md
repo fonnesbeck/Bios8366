@@ -19,6 +19,8 @@ To install Git, you can either download an installer from [the Git website](http
 
 On Linux, you can issue a similar command with `apt-get` or `yum`, depending on which Linux distribution you are using.
 
+Git can also be installed using the `conda` tool described below.
+
 In addition to installing Git locally, we will be using [GitHub](https://github.com/ "GitHub · Build software better, together.") to remotely store and share our code and documents. If you do not already have a GitHub account of your own, you can [request an educational account](https://github.com/edu) that will allow you to create private repositories that you can use for your course work.
 
 ## Python
