@@ -7,11 +7,15 @@ title: Advanced Statistical Computing
 
 # Textbook and Reading Materials
 
-### Recommended text
+### Recommended texts
 
 ![Computational Statistics](http://www.stat.colostate.edu/computationalstatistics/cover.Ed2.gif)
 
 [Computational Statistics](http://www.stat.colostate.edu/computationalstatistics/) by Geof H. Givens and Jennifer A. Hoeting
+
+![Machine Learning: An Algorithmic Perspective](https://seat.massey.ac.nz/personal/s.r.marsland/Images/K18981_cover.jpg)
+
+[Machine Learning: An Algorithmic Perspective](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=TB84Y9EAQRXACFWAXT3X)
 
 ### Weekly readings
 
