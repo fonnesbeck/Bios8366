@@ -13,6 +13,7 @@ dependencies:
 - dask
 - ipython
 - jupyter
+- jupyterlab
 - keras
 - notebook
 - ipyparallel
@@ -28,11 +29,13 @@ dependencies:
 - pillow
 - pip
 - pprofile
+- rpy2  
 - scikit-learn
 - scipy
 - seaborn
 - snakeviz
 - sympy
+- tensorflow
 - theano
 - xgboost
 - xlrd
