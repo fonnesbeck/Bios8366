@@ -1,3 +1,5 @@
+import numpy as np
+
 def fixed_point(func, a0, tol=1e-10):
     
     a = func(a0)
@@ -8,6 +10,6 @@ def fixed_point(func, a0, tol=1e-10):
         
     return a
 
-g = lambda x: dlgamma(x) + x
+g = lambda x: (5 - x**3) / 5
 
-fixed_point(g, 3)
+fixed_point(g, 0.75)
