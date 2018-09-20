@@ -48,7 +48,6 @@ notebooks/*pyx
 _homework/
 _project/
 test.*
-*.png
 *.svg
 *pickle
 mb.csv
