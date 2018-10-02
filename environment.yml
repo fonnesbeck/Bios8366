@@ -29,6 +29,7 @@ dependencies:
 - pillow
 - pip
 - pprofile
+- python-graphviz
 - rpy2  
 - scikit-learn
 - scipy
