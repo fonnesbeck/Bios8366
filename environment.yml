@@ -2,19 +2,15 @@ name: bios8366
 
 channels:
  - conda-forge
- - anaconda
  
 dependencies:
-- python=3.6
-- autograd
+- python
 - basemap
 - bokeh
 - cython
-- dask
 - ipython
 - jupyter
 - jupyterlab
-- keras
 - notebook
 - ipyparallel
 - ipywidgets
@@ -26,18 +22,15 @@ dependencies:
 - numpy
 - pandas
 - patsy
-- pillow
 - pip
 - pprofile
-- python-graphviz
 - rpy2  
 - scikit-learn
 - scipy
 - seaborn
 - snakeviz
 - sympy
-- tensorflow
-- theano
-- xgboost
+- pytorch
+- catboost
 - xlrd
 - pymc3
