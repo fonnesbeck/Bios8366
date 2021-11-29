@@ -47,6 +47,7 @@ notebooks/*pyx
 
 _homework/
 _project/
+_notebooks/
 test.*
 *.svg
 *pickle
@@ -57,9 +58,6 @@ nbmerge.py
 
 # OS X junk
 .DS_Store
-
-.domino*
-example_code/
 
 # Private stuff
 Grades*
