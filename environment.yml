@@ -5,18 +5,17 @@ channels:
  
 dependencies:
 - python
+- arviz
 - basemap
 - bokeh
 - cython
 - ipython
-- jupyter
 - jupyterlab
 - notebook
 - ipyparallel
-- ipywidgets
-- jupyter_client
-- jupyter_core
+- ipykernel
 - line_profiler
+- mkl-service
 - numexpr
 - numba
 - numpy
@@ -24,6 +23,7 @@ dependencies:
 - patsy
 - pip
 - pprofile
+- python-graphviz
 - rpy2  
 - scikit-learn
 - scipy
@@ -33,4 +33,5 @@ dependencies:
 - pytorch
 - catboost
 - xlrd
-- pymc3
+- pip:
+  - pymc3
