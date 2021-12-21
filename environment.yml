@@ -23,6 +23,8 @@ dependencies:
 - patsy
 - pip
 - pprofile
+- proj
+- pyarrow
 - python-graphviz
 - rpy2  
 - scikit-learn
@@ -35,4 +37,3 @@ dependencies:
 - xlrd
 - pip:
   - pymc3
-  - pyarrow
