@@ -31,7 +31,7 @@ x = X.flatten()
 fig = plt.figure(figsize=(12,5)); ax = fig.gca()
 
 # plot the samples from the gp posterior with samples and shading
-from pymc3.gp.util import plot_gp_dist
+from pymc.gp.util import plot_gp_dist
 plot_gp_dist(ax, pred_samples["f_pred"], x);
 
 # plot the data and the true latent function
