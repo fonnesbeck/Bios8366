@@ -16,13 +16,12 @@ Bios 6341 (Fundamentals of Probability), Bios 6342 (Contemporary Statistical Inf
 
 # Instructor
 
-[Chris Fonnesbeck](chris.fonnesbeck@vanderbilt.edu), PhD, Assistant Professor of Biostatistics
-
-11137, 11th floor, 2525 West End Avenue
+[Chris Fonnesbeck](chris.fonnesbeck@vanderbilt.edu), PhD, Adjoint Associate Professor of Biostatistics
+Principal Quantitative Analyst, Philadelphia Phillies
 
 # Teaching Assistant
 
-[Nick Strayer](n.dstrayer@vanderbilt.edu), PhD Candidate
+TBA
 
 # Slack
 
