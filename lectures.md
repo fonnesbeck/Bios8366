@@ -22,7 +22,7 @@ The following materials will be divided into approximately 25 lectures.
 The following links will display static Jupyter notebooks of each lecture:
 
 1. [Jupyter and IPython](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section0_1-IPython_and_Jupyter.ipynb)
-2. 1. [Plotting and Visualization](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section0_2-Plotting-and-Visualization.ipynb)
+2. [Plotting and Visualization](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section0_2-Plotting-and-Visualization.ipynb)
 3. [Univariate and multivariate optimization](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section1_1-Univariate-and-Multivariate-Optimization.ipynb)
 4. [Combinatorial optimization](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section1_2-Combinatorial-Optimization.ipynb)
 5. [Introduction to Pandas](https://github.com/fonnesbeck/Bios8366/blob/master/notebooks/Section2_1-Introduction-to-Pandas.ipynb)
