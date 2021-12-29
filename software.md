@@ -36,9 +36,7 @@ The first step is to install Python on your computer. I will be teaching this co
 
 An even better alternative is to use the [Miniforge](https://github.com/conda-forge/miniforge) system, which is a community-led project that provides the core subset of the Anaconda system, and is tied to the [CondaForge](https://conda-forge.org/ "CondaForge — The community-driven conda repository.") repository for downloading the most current versions of scientific Python packages.
 
-You can download the installer for your system from the [Miniforge GitHUb repository](https://github.com/conda-forge/miniforge#download):
-
-![get Python 3](images/getpy3.png)
+You can download the installer for your system from the [Miniforge GitHUb repository](https://github.com/conda-forge/miniforge#download).
 
 In addition to Python itself, we will be making use of several packages in the scientific stack. These include the following:
 
