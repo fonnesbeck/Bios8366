@@ -5,9 +5,6 @@ channels:
  
 dependencies:
 - python
-- arviz
-- basemap
-- bokeh
 - cython
 - ipython
 - jupyterlab
@@ -16,24 +13,28 @@ dependencies:
 - ipykernel
 - line_profiler
 - mkl-service
-- numexpr
-- numba
 - numpy
 - pandas
 - patsy
 - pip
 - pprofile
 - proj
-- pyarrow
 - python-graphviz
 - rpy2  
-- scikit-learn
 - scipy
-- seaborn
 - snakeviz
 - sympy
-- pytorch
-- catboost
 - xlrd
 - pip:
-  - pymc3
+  - catboost
+  - jax
+  - numba
+  - git+https://github.com/pymc-devs/pymc.git
+  - bokeh
+  - arviz
+  - patsy
+  - scikit-learn
+  - seaborn
+  - pyarrow
+  - numexpr
+  - basemap
